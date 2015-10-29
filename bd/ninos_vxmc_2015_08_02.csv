@@ -1,0 +1,1370 @@
+idnino,nombre,apat,amat,fdia,fmes,fano,genero,comedor,apadrinado
+1,Abraham Josue,Contreras,Contreras,5,11,2005,2,1,0
+2,Adrián,Martínez,Carrillo,29,11,2010,2,1,0
+3,Adriana,Contreras,Ramírez,4,9,2005,1,1,0
+4,Adriana,Martínez,Sánchez,26,6,2002,1,1,0
+5,Alan Eduardo,Lara,Reyes,6,12,2004,2,1,0
+6,Alex Geovany,Meza,Ibañez,11,3,2005,2,1,0
+7,Alfredo,López,Romero,12,7,2011,2,1,0
+8,Alondra,Sánchez,González,11,3,2004,1,1,0
+9,Alondra Paola,Colin,Álvarez,15,3,2005,1,1,0
+10,Amanda,Contreras,Contreras,22,6,2009,1,1,0
+11,Ana,Justo,Hernández,9,6,1999,1,1,0
+12,Andrea,Martínez,Reyes,7,8,2006,1,1,0
+13,Anel Sofía,Sánchez,González,24,9,2005,1,1,0
+14,Ángel,Domínguez,Eduardo,24,11,2004,2,1,0
+15,Ángel Alejandro,Galvez,Jimenez,6,3,2000,2,1,0
+16,Ángel,Carmona,Garduño,26,8,2006,2,1,0
+17,Ángel Geovanny,Guzmán,Contreras,26,9,2005,2,1,0
+18,Ángel Isai,Girón,Hernández,27,6,2009,2,1,0
+19,Ángel Manuel,Labastida,Martínez,14,9,2011,2,1,0
+20,Angelique,Martínez,Reyes,13,4,2008,1,1,0
+21,Ani,Torres,Carmona,20,7,2011,1,1,0
+22,Anthony Daniel,Rivas,Alcántara,18,12,2004,2,1,0
+23,Anyuli Jaqueline,Morales,Romero,25,2,2003,1,1,0
+24,Aranza Angelina,Meza,Sánchez,17,3,2011,1,1,0
+25,Ariadna,Mesa,Gómez,24,9,2004,1,1,0
+26,Audrey,Hernández,Guzmán,13,12,2007,2,1,0
+27,Axel Gael,Lara,Reyes,1,9,2013,2,1,0
+28,Berenice,Sánchez,González,12,11,2001,1,1,0
+29,Blanca Jazmín,Acevedo,Sánchez,7,2,2007,1,1,0
+30,Brandon Arnoldo,Ramírez,López,10,6,2007,2,1,0
+31,Brayan,González,Toledo,14,3,2009,2,1,0
+32,Brayan,Velázquez,Sánchez,28,12,2006,2,1,0
+33,Brayan Ramses,Rivas,Alcántara,19,11,2001,2,1,0
+34,Brenda Estefanía,Ramírez,López,30,6,2002,1,1,0
+35,Bryan Alberto,Pedroza,Lagunas,4,6,2005,2,1,0
+36,Carlos Jesús,Samano,García,31,10,2008,2,1,0
+37,César,Justo,Hernández,19,3,2010,2,1,0
+38,César Augusto,Ramírez,Esteban,11,5,2004,2,1,0
+39,César Ivan,Díaz,Celestino,17,11,2003,2,1,0
+40,Cinthya Citlali,Torres,Carmona,5,3,2005,1,1,0
+41,Claudia,Esquivel,Mercado,6,10,2003,1,1,0
+42,Concepción,López,Sánchez,9,12,2004,1,1,0
+43,Cristian,López,Sánchez,21,3,2003,2,1,0
+44,Daniel,Hernández,Justo,8,12,2004,2,1,0
+45,Daniela Elizabeth,Deceano,Aguilar,12,9,2005,1,1,0
+46,David,Acopa,Romero,17,12,2009,2,1,0
+47,Diana,Osorio,Lara,24,8,2002,1,1,0
+48,Diego,Galvez,Jimenez,8,12,2007,2,1,0
+49,Dulce María,Reyes,Gabriel,11,4,2008,1,1,0
+50,Eder Arturo,Mercado,Guzmán,15,12,2003,2,1,0
+51,Eder Efraín,Zuñiga,Sánchez,4,1,2012,2,1,0
+52,Edith,Mesa,Gómez,24,4,2009,1,1,0
+53,Eduardo,Sánchez,Contreras,13,4,2005,2,1,0
+54,Eduardo,Sánchez,Contreras,29,12,2009,2,1,0
+55,Erika Guadalupe,Sánchez,Nava,4,8,2007,1,1,0
+56,Ernesto,Martínez,Reyes,11,10,2012,2,1,0
+57,Esmeralda,Reyes,Sánchez,16,4,2013,1,1,0
+58,Estefanía,Osorio,Lara,14,8,2000,1,1,0
+59,Estrella Cecilia,Contreras,Carmona,5,9,2007,1,1,0
+60,Fátima Ángeles,Meza,Villa,23,6,2005,1,1,0
+61,Fernanda,Contreras,Contreras,16,10,2011,1,1,0
+62,Francisco,Hernández,Justo,3,10,2006,2,1,0
+63,Gabriela,Contreras,Ramírez,31,3,2003,1,1,0
+64,Gardenia Guadalupe,Velásquez,Hernández,17,12,2002,1,1,0
+65,Gerardo,Osorio,Lara,3,9,1998,2,1,0
+66,Gilberto Edgar,Morales,Vera,21,5,2008,2,1,0
+67,Griselda Xochitl,Carmona,Garduño,7,12,2004,1,1,0
+68,Guadalupe Nahomi,González,De Jesús,5,2,2007,1,1,0
+69,Gustavo,Martínez,Reyes,6,7,2003,2,1,0
+70,Hellen,Martínez,Reyes,7,6,2004,1,1,0
+71,Ian Aldair,Meza,Ibañez,20,10,2009,2,1,0
+72,Ingrid Elizabeth,Piña,Esquivel,17,4,2007,1,1,0
+73,Isaac,Contreras,Mercado,30,4,2004,2,1,0
+74,Janet,Martínez,Reyes,30,12,2001,1,1,0
+75,Javier,Justo,Hernández,29,11,2006,2,1,0
+76,Jennifer,López,Romero,16,9,2006,1,1,0
+77,Jennifer,Sánchez,Contreras,20,9,2007,1,1,0
+78,Jessica,López,Romero,29,5,2009,1,1,0
+79,Jesús Ramón,González,De Jesús,12,4,2003,2,1,0
+80,Jocelyn,Colin,Álvarez,10,12,2006,1,1,0
+81,Jonathan David,López,Romero,20,9,2004,2,1,0
+82,Jonathan Fernando,Francisco,Hernández,14,8,2008,2,1,0
+83,José Alejandro,Martínez,Carrillo,15,12,2006,2,1,0
+84,José Andrés,Sánchez,Contreras,26,5,2005,2,1,0
+85,Juan Antonio,Munguía,Piña,14,7,2013,2,1,0
+86,José Armando,Guzmán,Contreras,27,8,2001,2,1,0
+87,José Bryan,Hernández,Paulino,22,11,2012,2,1,0
+88,José Guadalupe,Díaz,Celestino,8,8,2002,2,1,0
+89,Jose Luis,Garibay,Sánchez,1,1,1999,2,1,0
+90,José Misael,Carmona,Reyes,11,1,2011,2,1,0
+91,José Raúl,Mercado,Guzmán,29,5,2008,2,1,0
+92,Josúe,Mediel,Flores,18,12,2005,2,1,0
+93,Juan Carlos,Meza,Villa,13,12,2012,2,1,0
+94,Juan Roberto,Contreras,Carmona,8,11,2012,2,1,0
+95,Julieta,Hernández,Justo,16,2,2008,1,1,0
+96,Karen Danae,Rivas,Alcántara,30,5,2000,1,1,0
+97,Karina,Garibay,Sánchez,24,4,1999,1,1,0
+98,Karina,Mediel,Flores,11,1,2000,1,1,0
+99,Karina Marlen,Esquivel,García,7,2,2001,1,1,0
+100,Karla Valentina,Contreras,Contreras,15,8,2008,1,1,0
+101,Katya Alejandra,Vázquez,Hernández,22,12,2003,1,1,0
+102,Kevin David,Lara,Reyes,3,1,2006,2,1,0
+103,Kevin Israel,Labastida,Martínez,15,8,2009,2,1,0
+104,Leilani Melisa,Carmona,Echegaray,4,2,2005,1,1,0
+105,Leonardo,Mercado,Guzmán,20,2,2006,2,1,0
+106,Leoncio De Jesús,Velásquez,Hernández,6,1,2005,2,1,0
+107,Leopoldo,Blanquel,Mondragón,24,7,2003,2,1,0
+108,Leticia,Ramírez,Esteban,9,11,1999,1,1,0
+109,Lisandro Alexis,Colin,Álvarez,29,10,2002,2,1,0
+110,Lizbeth,Justo,Hernández,13,3,2012,1,1,0
+111,Lizeth,Garduño,González,24,10,2002,1,1,0
+112,Lluvia Iveth,Contreras,Carmona,9,11,2004,1,1,0
+113,Lucero,Velázquez,Álvarez,8,4,2000,1,1,0
+114,Luis,Hernández,Justo,4,8,2010,2,1,0
+115,Luis Ángel,Calzada,Blanquel,11,3,2001,2,1,0
+116,Luis Arturo,Sánchez,Contreras,11,8,2007,2,1,0
+117,Luis David,Velázquez,Álvarez,19,7,2008,2,1,0
+118,Luna Lizeth,Contreras,Carmona,19,7,2011,1,1,0
+119,Marco Antonio,Álcantara,Hernández,23,3,2003,2,1,0
+120,Marco Antonio,Corral,Carmona,5,12,2004,2,1,0
+121,María del Carmen,Hernández,Bernal,4,9,2000,1,1,0
+122,María Guadalupe,Contreras,Ramírez,9,12,2002,1,1,0
+123,María Guadalupe,Francisco,Hernández,30,7,2000,1,1,0
+124,Marian,Contreras,Mercado,7,8,2002,1,1,0
+125,Martha Laura,Ramírez,Esteban,27,9,2001,1,1,0
+126,Mayra Camila,González,Toledo,25,3,2002,1,1,0
+127,Melani Julissa,Corral,Sánchez,24,9,2012,1,1,0
+128,Mónica,Sánchez,Nava,27,8,2001,1,1,0
+129,Nancy Teresa,Francisco,Hernández,9,8,2003,1,1,0
+130,Noemi,Acopa,Romero,16,10,2012,1,1,0
+131,Nohemi,González,De Jesús,28,2,2005,1,1,0
+132,Óscar,Justo,Hernández,14,2,2004,2,1,0
+133,Pablo,Justo,Hernández,18,5,2008,2,1,0
+134,Paola Gabriela,Samano,García,26,12,2004,1,1,0
+135,Paulina,Carmona,Nava,19,9,2003,1,1,0
+136,Perla Itzel,Pedroza,Laguna,9,5,2003,1,1,0
+137,Renata Leonor,Velázquez,Sánchez,27,7,2011,1,1,0
+138,Ricardo,Sánchez,Contreras,17,10,2005,2,1,0
+139,Rogelio,Mondragón,Contreras,22,3,2004,2,1,0
+140,Sandra,Blanquel,Mondragón,27,11,2008,1,1,0
+141,Sandra Lizbeth,Esquivel,Domínguez,25,11,2009,1,1,0
+142,Sandra Paola,Francisco,Hernández,28,3,2006,1,1,0
+143,Sergio Alexander,Piña,Esquivel,2,9,2009,2,1,0
+144,Solange Fernanda,Carmona,Echegaray,23,2,2010,1,1,0
+145,Tania Guadalupe,Deceano,Aguilar,10,4,2008,1,1,0
+146,Tonathiu,López,Sánchez,20,10,2006,1,1,0
+147,Tristan,Cañas,Carmona,9,8,2002,2,1,0
+148,Uriel,Corral,Carmona,13,1,2008,2,1,0
+149,Valeria Litzi,Hernández,Álvarez,29,12,2003,1,1,0
+150,Vicente,Hernández,Justo,1,4,2009,2,1,0
+151,Victoria,Hernández,Justo,19,8,2011,1,1,0
+152,Violeta,Álvarez,Álvarez,20,12,2001,1,1,0
+153,Wendy Atzury,Pedroza,Lagunas,23,5,2010,1,1,0
+154,Wendy Odeth,Piña,Esquivel,16,12,2002,1,1,0
+155,Ximena,Contreras,Ramírez,2,11,2009,1,1,0
+156,Yoselyn Itzel,Meza,Ibañez,1,3,2000,1,1,0
+157,Yuridia,Colin,Álvarez,3,6,2008,1,1,0
+158,Agustín David,Cruz,Bautista,22,2,2006,2,2,0
+159,Alejandro,Cruz,Villar,20,1,2009,2,2,0
+160,Alexis,Avila,Reyes,26,2,2013,2,2,0
+161,Alma Itzel,Vázquez,Hernández,13,12,2001,1,2,0
+162,Ana Belén,Carmona,García,15,8,2005,1,2,0
+163,Ana Belen,Avila,Reyes,14,3,2011,1,2,0
+164,Ana Cecilia,Tranquilino,Miranda,15,5,2005,1,2,0
+165,Ana Fernanda,Sánchez,Carmona,7,2,2003,1,2,0
+166,Ángel Gerardo,Rebollar,Zepeda,22,9,2003,1,2,0
+167,Angela Berenice,García,Gil,14,3,2012,1,2,0
+168,Angela Karina,García,Mendoza,27,1,2003,1,2,0
+169,Ángeles Mayte,Vázquez,Hernández,1,9,2005,1,2,0
+170,Angelica,Martínez,Cuevas,24,10,2003,1,2,0
+171,Ariadna Victoria,Ortíz,Garduño,4,5,2008,1,2,0
+172,Ariadna Yamileth,Sanchez,Hernández,17,12,2011,1,2,0
+173,Ariatna Michel,Mata,Torres,20,11,2004,1,2,0
+174,Ariel Xchel,Márquez,Gómez,31,10,2005,1,2,0
+175,Armando,Delgado,Antonio,7,8,2006,2,2,0
+176,Athenea Rubi,Gómez,Moreno,2,5,2011,1,2,0
+177,Axel Oswaldo,Mata,Torres,21,12,2008,2,2,0
+178,Benjamín Alejandro,Delgado,Acosta,18,8,2008,2,2,0
+179,Benny Alejandro,Reyes,Crescencio,21,3,2005,2,2,0
+180,Brayan Gael,Reyes,Barragán,23,2,2004,2,2,0
+181,Brenda,Tolentino,Mendoza,14,4,2002,1,2,0
+182,Brenda Evelin,Romero,Velazco,18,1,2004,1,2,0
+183,Carlos Esteban,Olea,Zepeda,11,6,2005,2,2,0
+184,Cintia Alejandra,Zárate,Sánchez,15,9,2012,1,2,0
+185,Cristian Yair,Hrnández,Pablo,3,9,2012,2,2,0
+186,Dana Paola,Martínez,Cuevas,10,9,2006,1,2,0
+187,Daniel,Avila,Reyes,3,5,2010,2,2,0
+188,Daniel Eleazer,Romero,Velazco,21,5,2010,2,2,0
+189,Daniela,Velasco,Valeriano,22,5,2000,1,2,0
+190,David,Delgado,Antonio,6,12,2003,2,2,0
+191,David Misael,Hrnández,Pablo,4,7,2004,2,2,0
+192,Diana Laura,Ramos,Velázquez,19,11,2002,1,2,0
+193,Diego,Cama,Ballón,30,8,2001,2,2,0
+194,Eber Isai,Quiroz,Velasco,9,10,2007,2,2,0
+195,Eddy Erik,González,Hernández,17,10,2006,2,2,0
+196,Edith,Zárate,Sánchez,6,9,2007,1,2,0
+197,Elier,Filio,Miguel,24,7,2002,2,2,0
+198,Eliezer,Filio,Miguel,2,6,2003,2,2,0
+199,Emiliano Leon,Terán,Santiago,4,2,2010,2,2,0
+200,Erick Alfredo,Montiel,Gallegos,13,1,2008,2,2,0
+201,Erick Israel,Reyes,Damaso,22,5,2009,2,2,0
+202,Erick Rubén,García,Rojo,30,9,2008,2,2,0
+203,Evelyn,Báez,Mondragón,8,7,2002,1,2,0
+204,Evelyn Constanza,Reyes,Damaso,4,3,2005,1,2,0
+205,Fabiola,Vázquez,Hernández,12,4,2013,1,2,0
+206,Fernando Eliezer,López,Báez,27,12,2005,2,2,0
+207,Francisco,González,Hernández,15,8,2005,2,2,0
+208,Francisco Daniel,Anaya,Flores,21,7,2001,2,2,0
+209,Francisco Guadalupe,Hernández,García,11,2,2005,2,2,0
+210,Francisco Pablo,Martínez,Álvarez,9,12,2000,2,2,0
+211,Galilea,Pacheco,Clemente,17,6,2002,1,2,0
+212,Gerardo Jair,Uribe,Europa,4,8,2003,2,2,0
+213,Guadalupe,Vázquez,Hernández,18,1,2012,1,2,0
+214,Guadalupe,Pacheco,Clemente,26,11,2005,1,2,0
+215,Guadalupe,Velázquez,Cerón,17,6,2002,1,2,0
+216,Ian,Rosado,Aguilar,3,9,2012,2,2,0
+217,Iker Santiago,Reyes,Barragán,29,7,2011,2,2,0
+218,Ileana,Filio,Miguel,10,1,2011,1,2,0
+219,Ingrid Zeltzin,Márquez,Gómez,27,12,2007,1,2,0
+220,Irvin Kenai,Escamilla,López,27,6,2009,2,2,0
+221,Issac,Rios,López,19,1,2011,2,2,0
+222,Ivonne Georgelett,Escamilla,López,3,6,2004,1,2,0
+223,Jaqueline,Velasco,Valeriano,25,1,2008,1,2,0
+224,Jehú Silvestre,Uribe,Europa,17,12,2007,2,2,0
+225,Jenifer Alexandra,Cruz,Villar,15,9,2006,1,2,0
+226,Jennifer,López,Gonzalez,11,4,2003,1,2,0
+227,Jessica Roxana,Terán,Santiago,1,5,2007,1,2,0
+228,Jesús,Aguirre,Velázquez,2,4,2011,2,2,0
+229,Jesús Emmanuel,Hernández,García,22,9,2000,2,2,0
+230,Jesus Uriel,Cabanzo,Mendez,4,11,2008,2,2,0
+231,Joana,Maldonado,Dorado,9,3,2004,1,2,0
+232,Johan,García,Marcial,11,12,2011,2,2,0
+233,Jonathan,Reyes,Téllez,27,10,2012,2,2,0
+234,Jonathan De Jesús Alejandro,Marquez,Garay,5,5,2005,2,2,0
+235,Jorge Alexis,Cohetero,Garduño,27,2,2008,2,2,0
+236,Jose,Filio,Miguel,22,5,2012,2,2,0
+237,José Alberto,Vázquez,Hernández,27,11,2003,2,2,0
+238,Jose Armando,Torrez,Lopez,9,7,2007,2,2,0
+239,José De Jesús,García,Marcial,5,8,2012,2,2,0
+240,José Miguel,Marcial,Uribe,9,1,2007,2,2,0
+241,Joshua Said,Mata,Torres,17,1,2010,2,2,0
+242,Juan José,Tolentino,Mendoza,18,12,2005,1,2,0
+243,Karina,Pérez,Bautista,1,1,2005,2,2,0
+244,Karla Arizbeth,Montien,Gallegos,23,5,2003,2,2,0
+245,Karla Paola,Rosas,Hernández,19,5,2005,2,2,0
+246,Katy Stefany Gisel,Garay,Mata,2,1,2002,2,2,0
+247,Laila Ameyali,Cohetero,Garduño,20,9,2010,1,2,0
+248,Laisha Lynn,Terán,Santiago,22,2,2001,1,2,0
+249,Leonardo  De Jesus,Cruz,Villar,13,10,2007,2,2,0
+250,Leonel,Pérez,Bautista,30,8,2003,2,2,0
+251,Liliana Shalom,Quiroz,Velasco,26,7,2011,1,2,0
+252,Linda Judith,Velázquez,Cerón,27,1,2009,1,2,0
+253,Lorena Guadalupe,Marquez,Garay,19,11,2008,1,2,0
+254,Luis Ángel Tadeo,Téllez,Ramírez,28,5,2009,2,2,0
+255,Luis David,Tranquilino,Miranda,6,12,2007,2,2,0
+256,Luz Esmeralda,Sánchez,Carmona,8,4,2011,1,2,0
+257,Marco Antonio,Gómez,Moreno,15,5,2008,2,2,0
+258,María Aquetzali,Cohetero,Garduño,14,8,2007,1,2,0
+259,María De Los Ángeles,Hernández,García,5,11,2003,1,2,0
+260,María Eugenia,Sánchez,Carmona,4,6,2005,1,2,0
+261,María Fernanda,López,Báez,26,1,2000,1,2,0
+262,Martha,Tranquilino,Miranda,23,2,2004,1,2,0
+263,Marvin Uriel,Escamilla,López,6,8,2007,2,2,0
+264,Mayra,Tolentino,Mendoza,11,1,2004,1,2,0
+265,Mayra,Martínez,Cuevas,26,11,2000,1,2,0
+266,Mayté Guadalupe,Escamilla,López,6,10,2005,1,2,0
+267,Melanie,Martínez,Cuevas,10,3,2002,1,2,0
+268,Melina,Cruz,Bautista,23,5,2001,1,2,0
+269,Michelle Alondra,González,Hernández,7,9,2003,1,2,0
+270,Mitzi Janeth,Hernández,Montiel,25,3,2012,1,2,0
+271,Miztli Cesar Elihu,Márquez,Gómez,20,11,2003,2,2,0
+272,Nabila Yovana,Barrios,Coyote,19,8,2004,1,2,0
+273,Natally,Castillo,Mendoza,10,1,2004,1,2,0
+274,Nayeli,Cabanzo,Mendez,15,10,2001,1,2,0
+275,Nora Sarai,Quiroz,Velasco,23,10,2005,1,2,0
+276,Paola Marisol,Delgado,Acosta,8,10,2003,1,2,0
+277,Paula,Pacheco,Clemente,22,5,2003,1,2,0
+278,Pedro,Vázquez,Hernández,3,10,2008,2,2,0
+279,Perla Monserrat,Márquez,Hernández,13,2,2000,1,2,0
+280,Reyna Paola,Avila,Reyes,7,1,2009,1,2,0
+281,Sandra Lizbeth,López,Gonzalez,25,6,2009,1,2,0
+282,Silvia Alexa Aurora,Martínez,Álvarez,8,12,2008,1,2,0
+283,Sofía,Delgado,Acosta,5,9,2002,1,2,0
+284,Tania,Cama,Ballón,28,4,2009,1,2,0
+285,Tifany Esmeralda,Martínez,Cuevas,2,12,2005,1,2,0
+286,Valeria,Sánchez,Hernández,12,4,2008,1,2,0
+287,Valeria,Velázquez,Cerón,19,4,2000,1,2,0
+288,Victoria Abigail,Sánchez,Carmona,2,7,2000,1,2,0
+289,Viridiana,Tolentino,Mendoza,21,9,2000,1,2,0
+290,Wendy Alexandra,Delgado,Antonio,10,6,2013,1,2,0
+291,Yael Alejandro,Velasco,Valeriano,19,9,2004,2,2,0
+292,Yaret Astrid,García,Mendoza,29,12,2005,1,2,0
+293,Zaira Mirel,Reyes,Barragán,21,12,2006,1,2,0
+294,Zuri Rebeca,Romero,Velazco,27,1,2002,1,2,0
+295,Abraham Jesús,García,Reyes,26,12,2005,2,3,0
+296,Adriana,Martínez,Cantú,5,2,2003,1,3,0
+297,Adriana,Martínez,Vaquero,19,12,2004,1,3,0
+298,Aida Geovanna,Gallegos,Severo,9,6,2012,1,3,0
+299,Alan Emmanuel,Jaimes,González,23,12,2003,2,3,0
+300,Alejandra,Fernández,Valentín,12,5,2007,1,3,0
+301,Alejandra Jacqueline,Aparicio,Ortiz,30,5,2013,1,3,0
+302,Alejandro,Chaparro,Mauricio,28,9,2006,2,3,0
+303,Alexis Nicandro,Martínez,Cantú,15,10,2006,2,3,0
+304,Alexis,Peña,Bautista,16,11,2011,2,3,0
+305,Aline Alexandra,Cruz,Millan,12,1,2008,1,3,0
+306,Allison Edith,Martínez,Cruz,27,10,2003,1,3,0
+307,Alma Jesuri,Velasco,Nuñez,6,10,2002,1,3,0
+308,Alondra Naomi,Peña,Bautista,9,6,2007,1,3,0
+309,América Guadalupe,García,Reyes,1,5,2008,1,3,0
+310,Ana Karen,Pérez,Cantor,21,6,2001,1,3,0
+311,Ana Karen,Sandoval,Mancilla,3,11,2001,1,3,0
+312,Ana Luisa,Álvarez,De la Cruz,3,9,2005,1,3,0
+313,Andrea,Fernández,Valentín,6,12,2004,1,3,0
+314,Andrés Alejandro,Valenzuela,Luna,23,8,2001,2,3,0
+315,Ángel Alejandro,Ochoa,González,19,7,2007,2,3,0
+316,Ángel Alfredo,Fernández,Valentín,9,2,2013,2,3,0
+317,Ángel Antonio,Pedroza,Andrew,13,6,2003,2,3,0
+318,Ángel Cuauhtemoc,Hernández,Allende,18,11,2007,2,3,0
+319,Ángel Elias,Romero,García,16,11,2010,2,3,0
+320,Ángel Emmanuel,Castro,Ortiz,16,5,2009,2,3,0
+321,Ángel Gabriel,Gómez,Peralta,22,5,2005,2,3,0
+322,Ángel Gabriel,Hernández,Pérez,12,1,2012,2,3,0
+323,Ángel Humberto,Cadena,Mendoza,2,8,2005,2,3,0
+324,Ángel Rodrigo,Montoya,Reyes,17,4,2003,2,3,0
+325,Ángel Santiago,Osnaya,Trejo,26,8,2013,2,3,0
+326,Angela,Álvarez,Fragoso,15,12,2003,1,3,0
+327,Angélica,Martínez,Cantú,5,11,2001,1,3,0
+328,Araceli,Aguilar,Morales,1,3,2007,1,3,0
+329,Ariadna Araceli,Martínez,Morales,30,6,2002,1,3,0
+330,Axel Ivan,Vázquez,Tovar,1,12,2009,2,3,0
+331,Bairon Manuel,Jiménez,Lara,6,6,2012,2,3,0
+332,Blanca Jimena,Razo,Mercado,24,9,2013,1,3,0
+333,Blanca Yadira,Cruz,Migueles,1,6,2002,1,3,0
+334,Brandon Abdiel,Chavez,Alvarado,12,2,2005,2,3,0
+335,Brandon Esteban,Castañeda,González,12,6,2006,2,3,0
+336,Brayan Jair,Chavez,Alvarado,27,10,2003,2,3,0
+337,Brayan Omar,Chaparro,Mauricio,17,4,2005,2,3,0
+338,Brayan Saúl,Martínez,Cruz,1,10,2005,2,3,0
+339,Brisa Andrea,Valenzuela,Luna,9,5,2007,1,3,0
+340,Camila,Barcenas,Argüelles,11,1,2012,1,3,0
+341,Carlos Abdalla,Chavez,Alvarado,14,1,2010,2,3,0
+342,Carlos Alberto,García,De la Cruz,28,6,2006,2,3,0
+343,Carlos Eduardo,García,De la Cruz,18,9,2004,2,3,0
+344,Carlos Manuel,Castañeda,González,18,11,2002,2,3,0
+345,Carmen Nayelli,Castro,Ortiz,26,1,2012,1,3,0
+346,Carolina,Francisco,Marcelino,16,11,2003,1,3,0
+347,Cecilia Jazmín,González,Rojas,22,11,2007,1,3,0
+348,Cesar Owen,Barcenas,Argüelles,28,5,2009,2,3,0
+349,Cinthya Gabriela,Hernández,Pérez,26,12,2003,1,3,0
+350,Cristofer Joset,Valenzuela,Luna,23,8,2006,2,3,0
+351,Cristopher Yael,López,Pedroza,29,1,2012,2,3,0
+352,Daniel,Gabino,Aguilar,13,10,2001,2,3,0
+353,Daniel,Huerta,Hernández,23,6,2001,2,3,0
+354,Daniela Yoselin,Aparicio,Cruz,25,2,2011,1,3,0
+355,Diana Yazmín,Mendoza,Delgadillo,6,12,2006,1,3,0
+356,Diego Misael,Martínez,Morales,14,5,2007,2,3,0
+357,Dorian Ariel,Lara,Guzmán,18,2,2010,1,3,0
+358,Dulce Alicia,Castañeda,González,11,3,2009,1,3,0
+359,Dulce Daniela,Chavez,Segura,31,1,2003,1,3,0
+360,Edgar Donovan,Martínez,Reyna,15,6,2009,2,3,0
+361,Edwin Daniel,Serafico,Morales,1,6,2006,2,3,0
+362,Emigdio,Aguilar,Morales,5,3,2012,2,3,0
+363,Emmanuel Roberto,Gallegos,Severo,22,6,2013,2,3,0
+364,Erick David,Pérez,Cantor,31,12,2000,2,3,0
+365,Erick Ricardo,González,Mirón,23,4,2006,2,3,0
+366,Erika Jazmín,Fabila,Gómez,17,3,1998,1,3,0
+367,Esau Alexis,Rodríguez,Cruz,12,2,2014,2,3,0
+368,Esmeralda,Delgadillo,Jiménez,12,2,2000,1,3,0
+369,Esmeralda Joceline,Alavez,Reyes,25,7,2002,1,3,0
+370,Estrella de Jesús,Rodríguez,Cruz,13,1,2011,1,3,0
+371,Estrella Yamilet,Jacinto,González,14,12,2011,1,3,0
+372,Estrella Yuridia,Cruz,Migueles,14,6,2007,1,3,0
+373,Ezequiel,Bautista,González,2,12,2004,2,3,0
+374,Fanny Griselda,Jiménez,De la Cruz,28,3,2010,1,3,0
+375,Fátima Aixa,Barcenas,Argüelles,23,3,2006,1,3,0
+376,Fátima Guadalupe,García,Bustos,15,9,2003,1,3,0
+377,Fátima Natalia,Jacinto,González,22,12,2013,1,3,0
+378,Fátima,Trejo,Martínez,5,9,2005,1,3,0
+379,Fernanda Michelle,Jiménez,Lara,8,7,2013,1,3,0
+380,Fernando Meliton,Trejo,Cruz,21,8,2012,2,3,0
+381,Flor Lizeth,Romero,García,14,2,2009,1,3,0
+382,Francisco,Álvarez,De la Cruz,7,12,2007,2,3,0
+383,Gabriel Adrian,González,García,23,6,2011,2,3,0
+384,Gabriela Fernanda,Martínez,Valtierra,28,9,2005,1,3,0
+385,Gabriela,López,Fonseca,4,6,2007,1,3,0
+386,Gerardo Alberto,García,De la Cruz,26,8,2002,2,3,0
+387,Gilberto Jesús,González,Rojas,11,6,2004,2,3,0
+388,Gloria Estefan,Patricio,Martínez,10,4,2004,1,3,0
+389,Graciela Josseline,García,Hernández,9,2,1999,1,3,0
+390,Guadalupe Irene,Alavez,Reyes,10,12,2009,1,3,0
+391,Guadalupe Teresa,Olvera,Pedroza,6,3,2012,1,3,0
+392,Guillermo,Hernández,Carbajal,9,5,2006,2,3,0
+393,Gustavo Ángel,Hernández,Arango,16,5,2005,2,3,0
+394,Gustavo,De la Cruz,Dominguez,28,7,2007,2,3,0
+395,Héctor Gamaliel,Castro,Ortiz,3,2,2007,2,3,0
+396,Irvin,Trejo,Martínez,23,6,2003,2,3,0
+397,Jaime Jair,Alavez,Reyes,6,7,2003,2,3,0
+398,Janet,López,Fonseca,4,6,2007,1,3,0
+399,Janet Yuridia,Cadena,Mendoza,24,10,2007,1,3,0
+400,Janeth Maite,Reyes,Ríos,18,7,2006,1,3,0
+401,Jaqueline,García,González,25,9,2002,1,3,0
+402,Jazmín,Sandoval,Mancilla,8,9,1999,1,3,0
+403,Jennifer Paola,Olvera,Pedroza,13,10,2004,1,3,0
+404,Jennifer,Velasco,Hernández,17,6,2009,1,3,0
+405,Jeremy Adan,Castañeda,González,12,5,2011,2,3,0
+406,Jesús Adan,Mendez,Sandoval,30,10,2000,2,3,0
+407,Jesús Armando,Jiménez,Lara,14,6,2009,2,3,0
+408,Jesús Damián,Valenzuela,Alegría,25,8,2013,2,3,0
+409,Jesús Gabriel,Martínez,García,12,9,2000,2,3,0
+410,Jimena Guadalupe,Jacinto,González,25,1,2009,1,3,0
+411,Jonathan Emanuel,Hernández,Pérez,18,3,2003,2,3,0
+412,Jonathan Ignacio,Sandoval,Mancilla,28,8,2000,2,3,0
+413,Jonthan,Pedroza,Andrew,21,2,2010,2,3,0
+414,Jorge Daniel,Resendiz,Álvarez,15,7,2002,2,3,0
+415,Jorge Luis,Peña,Bautista,18,3,2006,2,3,0
+416,Jorge Omar,Razo,Mercado,18,10,2000,2,3,0
+417,José de Jesús,Hernández,Allende,24,12,2008,2,3,0
+418,José Giovanni,Álvarez,De la Cruz,26,5,2001,2,3,0
+419,José Manuel,Pérez,Cantor,30,3,2003,2,3,0
+420,José Ricardo,Montoya,Reyes,20,6,2000,2,3,0
+421,Juan Antonio,Aguilar,Toribio,28,11,2003,2,3,0
+422,Juan Carlos,De la Cruz,Dominguez,12,2,2001,2,3,0
+423,Juan Carlos,Gómez,Peralta,12,4,2000,2,3,0
+424,Juan Carlos,Velasco,Hernández,31,5,2011,2,3,0
+425,Justin Emmanuel,Gómez,Peralta,6,12,2006,2,3,0
+426,Karen Samantha,Hernández,Pérez,29,6,2005,1,3,0
+427,Karina,Fernández,Valentín,23,9,2002,1,3,0
+428,Karina,Martínez,Vaquero,10,10,2003,1,3,0
+429,Karla Citlali,Álvarez,Fragoso,14,10,2002,1,3,0
+430,Karla,Vargas,Fernández,19,4,2008,1,3,0
+431,Kelly Yaritza,Trejo,Cruz,23,12,2009,1,3,0
+432,Kenia Hetzemani,García,Reyes,31,1,2007,1,3,0
+433,Kimberly Paola,Salgado,Serafico,6,7,2010,1,3,0
+434,Kinari Dominique,Gallegos,Severo,26,9,2010,1,3,0
+435,Kitcia Cinay,Chavez,Segura,23,10,2007,1,3,0
+436,Lucero Aide,Valenzuela,Luna,23,9,2005,1,3,0
+437,Lucero Guadalupe,Pedroza,Andrew,25,3,2013,1,3,0
+438,Lucero,Santillan,González,3,4,2006,1,3,0
+439,Luis Ángel,González,Rojas,19,12,2006,2,3,0
+440,Luis Ángel,Hernández,Carbajal,11,1,2004,2,3,0
+441,Luis Ángel,Jiménez,Lara,15,5,2007,2,3,0
+442,Luis Ángel,Martínez,Cruz,23,7,2007,2,3,0
+443,Luis Eduardo,García,Bustos,10,8,2005,2,3,0
+444,Luis Enrique,Resendiz,Álvarez,23,6,2001,2,3,0
+445,Luis Ernesto,Aguilar,Morales,7,12,2009,2,3,0
+446,Luna Sarai,Aparicio,Ortiz,13,8,2009,1,3,0
+447,Luz Jatziri,Gallegos,Severo,12,2,2008,1,3,0
+448,Marcos Antonio,Fabila,Gómez,4,5,2007,2,3,0
+449,Margarita Esmeralda,García,De la Cruz,3,2,2008,1,3,0
+450,María de Jesús,Martínez,Vaquero,25,12,2006,1,3,0
+451,María de la Luz,Fabila,Gómez,26,8,2005,1,3,0
+452,María de los Angeles,Rodríguez,Reyes,13,6,2000,1,3,0
+453,María del Carmen,Gallegos,Severo,27,9,2009,1,3,0
+454,María Fernanda,Hernández,Pérez,18,3,2007,1,3,0
+455,María Guadalupe,Francisco,Marcelino,6,10,1999,1,3,0
+456,María Guadalupe,Trejo,Borjas,7,10,2010,1,3,0
+457,María Isabel,Francisco,Marcelino,9,5,2001,1,3,0
+458,María José,Lara,Guzmán,7,6,2008,1,3,0
+459,Maricarmen,Guzmán,Lobato,8,9,2001,1,3,0
+460,Mariela,López,Fonseca,20,6,2010,1,3,0
+461,Mauricio,Álvarez,De la Cruz,30,10,2003,2,3,0
+462,Melissa,De la Cruz,Dominguez,27,10,2009,1,3,0
+463,Mía Yoneli,Martínez,Reyna,6,9,2007,1,3,0
+464,Miguel Ángel,González,Pedroza,22,11,2002,2,3,0
+465,Miguel Ángel,Marcelino,Francisco,15,2,2010,2,3,0
+466,Mónica Guadalupe,Cadena,Mendoza,23,4,2001,1,3,0
+467,Mónica Irene,Montoya,Reyes,18,3,2005,1,3,0
+468,Nadia Coral,Fernández,García,29,7,2005,1,3,0
+469,Naydeline Yael,García,Soria,12,1,2011,1,3,0
+470,Nelly Gesuri,Romero,Méndez,7,3,2002,1,3,0
+471,Omaet Jovani,Romero,Álvarez,17,4,2012,2,3,0
+472,Omar Ulises,Martínez,De la Cruz,5,4,2008,2,3,0
+473,Orly Jazmín,Olvera,Pedroza,1,8,2010,1,3,0
+474,Oscar,Aguilar,Morales,18,7,2008,2,3,0
+475,Pablo Yair,Pérez,Álvarez,5,10,2007,2,3,0
+476,Pamela Abigail,García,Bustos,1,9,2007,1,3,0
+477,Paola Natali,Álvarez,Flores,19,1,2009,1,3,0
+478,Pedro Gabriel,Castro,Ortiz,6,11,2010,2,3,0
+479,Perla Izamar,Fernández,García,17,11,1999,1,3,0
+480,Ramón,Bautista,López,31,10,2003,2,3,0
+481,Rey David,Osorio,Reyes,25,9,2007,2,3,0
+482,Ricardo,Hernández,Arango,12,8,2003,2,3,0
+483,Ricardo,Santillan,Diego,11,9,2011,2,3,0
+484,Rodolfo,López,Fonseca,18,5,2008,2,3,0
+485,Rodrigo,Trejo,Martínez,27,6,2011,2,3,0
+486,Sandra,Fernández,Valentín,30,8,2008,1,3,0
+487,Sandra Vanessa,Rosas,Martínez,31,12,2012,1,3,0
+488,Saúl Axel,Rodríguez,Cruz,19,5,2009,2,3,0
+489,Saúl Fidencio,Cruz,Migueles,18,1,2001,2,3,0
+490,Selene Gabriela,García,Hernández,24,2,2007,1,3,0
+491,Soledad,Velasco,Nuñez,11,11,1999,1,3,0
+492,Sonia Anel,Alavez,Reyes,27,2,2006,1,3,0
+493,Uriel,Pedroza,Andrew,24,8,2006,2,3,0
+494,Valeri Melissa,Martínez,Cruz,20,5,2010,1,3,0
+495,Victor Jesús,Pérez,Cantor,19,1,2005,2,3,0
+496,Wendy Jaqueline,Santillan,Diego,23,7,2002,1,3,0
+497,Wendy Melany,Razo,Mercado,10,10,2010,1,3,0
+498,Wendy Monserrat,Hernández,Pérez,27,2,2007,1,3,0
+499,Wendy Valentina,González,Rojas,14,2,2001,1,3,0
+500,Ximena Elizabeth,Jiménez,Lara,9,10,2009,1,3,0
+501,Xochitl Guadalupe,Álvarez,De la Cruz,30,3,2011,1,3,0
+502,Yahir Emanuel,Valenzuela,Alegría,4,5,2008,2,3,0
+503,Yolanda de Jesús,Alcantara,González,6,8,2004,1,3,0
+504,Yoselin Reyna,González,Osnaya,9,3,2007,1,3,0
+505,Zoe Renata,Martínez,Reyna,28,11,2011,1,3,0
+506,Abel Alexander,Muñoz,Pérez,11,8,2012,2,4,0
+507,Abigail Janet,Lujano,Hernández,15,4,2002,1,4,0
+508,Alan José,Jaramillo,Olvera,30,4,2009,2,4,0
+509,Alejandra Guadalupe,Guzmán,Alvarado,26,12,2008,1,4,0
+510,Alexandro,Ramírez,Hernández,23,8,2005,2,4,0
+511,Alison Fernanda,Miranda,Iglesias,30,9,2005,1,4,0
+512,Allisson Valeri,Cortés,Reyes,27,1,2009,1,4,0
+513,Alondra Jazmín,Ramírez,Luján,5,7,2013,1,4,0
+514,Alondra,Rodríguez,Ramírez,15,3,2005,1,4,0
+515,Amanda Esther,González,Maya,1,1,2007,1,4,0
+516,América Lizbeth,Licona,Lara,7,9,2005,1,4,0
+517,Ana María Atlantida,Jaramillo,Martínez,30,9,2003,1,4,0
+518,Ana María,López,Hernández,13,6,2008,1,4,0
+519,Anahí Elena,Licona,Lara,6,9,2007,1,4,0
+520,Andrea,Riaño,García,16,9,2004,1,4,0
+521,Andrés Delfino,Sánchez,Reyes,20,9,2005,2,4,0
+522,Ángel Alexis,Hernández,Sandoval,25,2,2007,2,4,0
+523,Ángel Del Refugio,Alvarado,Arriaga,5,5,2012,2,4,0
+524,Arely Jocelyn,García,Aguilera,7,2,2005,1,4,0
+525,Ari Lesly,Rodríguez,Balderas,11,6,2008,1,4,0
+526,Ariel,Domínguez,Rosales,25,10,2006,1,4,0
+527,Axel Alexander,Félix,Pérez,5,11,2005,2,4,0
+528,Axel Yahir,Ramírez,Brígido,9,10,2002,2,4,0
+529,Bayron Misael,Becerril,Cruz,8,4,2012,2,4,0
+530,Brandon Felipe,García,De La Cruz,15,7,1999,2,4,0
+531,Brandon Uriel,Romero,González,31,5,2008,2,4,0
+532,Braulio Miguel,Galindo,Galicia,7,10,2011,2,4,0
+533,Brayan Alexis,Lujano,Hernández,13,6,2006,2,4,0
+534,Brayan Alexis,Romero,González,18,8,2003,2,4,0
+535,Brayan,Deza,Arteaga,18,7,2005,2,4,0
+536,Brayan Fidel,Lara,Olivares,16,11,2003,2,4,0
+537,Brisa Pamela,Sandoval,Becerra,1,10,2013,1,4,0
+538,Brissa,Brígido,De Jesús,29,7,2009,1,4,0
+539,Britany,Hernández,De La Cruz,9,12,2005,1,4,0
+540,Byron Dario,Valencia,García,18,5,2011,2,4,0
+541,Carlos Hernán,Ramírez,Hernández,19,5,2011,2,4,0
+542,Cazandra Abigail,Romero,González,4,12,2001,1,4,0
+543,Christopher Aldair,Castro,Alvarado,23,3,2013,2,4,0
+544,Citlali De María,Licona,Lara,19,10,2006,1,4,0
+545,Citlalli Guadalupe,Becerril,Cruz,17,5,2010,1,4,0
+546,Cristian Ariel,Valdez,Sánchez,26,4,2005,1,4,0
+547,Dana Luisa,González,Gonzaga,28,7,2010,1,4,0
+548,Daniel,Escutia,Calderón,12,2,2008,2,4,0
+549,Daniel,González,Gonzaga,22,11,2007,2,4,0
+550,Daniela Anaid,González,Hernández,11,6,2004,1,4,0
+551,Daniela,Morales,Ortíz,22,1,2001,1,4,0
+552,Daniela,Rodríguez,Martínez,20,4,2005,1,4,0
+553,David Adrian,Yáñez,Flores,29,6,2011,2,4,0
+554,Dereck Geovanny,Hernández,Vergara,3,8,2007,2,4,0
+555,Derek Isael,González,Gonzaga,25,2,2011,2,4,0
+556,Diego Ángel,Romero,González,26,3,2005,2,4,0
+557,Donnovan Armando,Ocampo,Alvarado,12,1,2010,2,4,0
+558,Donovan,Miranda,Iglesias,30,11,2013,2,4,0
+559,Dulce Camila,Valdez,Tamayo,7,7,2006,1,4,0
+560,Edgar,Hernández,García,19,7,2010,2,4,0
+561,Eduardo,Juárez,Romero,15,5,2004,2,4,0
+562,Edwar Anthoni,De La Cruz,Escalona,4,6,2004,2,4,0
+563,Edwin,Aguilar,Ortíz,20,7,2007,2,4,0
+564,Edwin Jesús,Serafín,Martínez,12,7,2004,2,4,0
+565,Elisa Brillit,Ramírez,Luján,29,5,2011,1,4,0
+566,Emiliano,Serrano,Gómez,16,11,2007,2,4,0
+567,Erica Griselda,Riaño,García,17,5,2001,1,4,0
+568,Erick Gabriel,Alvarado,Arriaga,13,4,2004,2,4,0
+569,Erik Jesús,Valdéz,Álvarez,13,4,2004,2,4,0
+570,Erika,Lara,Olivares,20,9,2008,1,4,0
+571,Estephanie Alexia,Flores,Flores,28,5,2004,1,4,0
+572,Estrella Magavi,Hernández,Váldez,30,6,2011,1,4,0
+573,Fátima Guadalupe,Hernández,Escobar,23,11,2006,1,4,0
+574,Fernando,Lara,Olivares,19,8,2005,2,4,0
+575,Francisco Javier,Herrera,León,16,10,1999,2,4,0
+576,Gabriel Tadeo,Hernández,De La Cruz,28,6,2012,2,4,0
+577,Gabriela Iracema,Sandoval,Morales,24,12,2004,1,4,0
+578,Gabriela,Morales,Ortíz,24,7,2002,1,4,0
+579,Geovana,Sandoval,Becerra,7,11,2007,1,4,0
+580,Geraldin Samanta,Hernández,De La Cruz,20,11,2001,1,4,0
+581,Gerardo Gabriel,Rodríguez,Jaramillo,6,1,2003,2,4,0
+582,Giovanna,Primero,Lucas,26,2,2003,1,4,0
+583,Guadalupe Azul,Camacho,Sánchez,15,1,2008,1,4,0
+584,Guadalupe Yuriko,González,Amaya,31,12,2008,1,4,0
+585,Héctor Imanol,Ramírez,Brígido,26,6,2005,2,4,0
+586,Hugo Eduardo,Valdéz,Álvarez,23,5,2002,2,4,0
+587,Humberto David,Félix,Pérez,22,5,2007,2,4,0
+588,Ingrid,Escutia,Calderón,16,5,2004,1,4,0
+589,Isaac,Juárez,Romero,5,6,2003,2,4,0
+590,Isamar,Rodríguez,Ramírez,13,11,2006,1,4,0
+591,Ismael,Domínguez,Rosales,10,10,2010,2,4,0
+592,Jatziri Nicole,Lujano,Hernández,11,6,2013,1,4,0
+593,Javier Isaac,Yáñez,Flores,30,4,2013,2,4,0
+594,Jazmín,Domínguez,Rosales,14,11,2001,1,4,0
+595,Jessica Lizbeth,Jaramillo,Olvera,10,9,2007,1,4,0
+596,Jesús Ángel,Hernández,García,10,9,2005,2,4,0
+597,Jesús David,Cruz,Ramírez,6,4,2008,2,4,0
+598,Jesús Eduardo,Guzmán,Alvarado,3,5,2004,2,4,0
+599,Jesús Emiliano,Servín,Hernández,31,10,2013,2,4,0
+600,Joel Isaías,Madrigal,Reza,24,1,2009,2,4,0
+601,Johan,Rodríguez,Balderas,4,10,1999,2,4,0
+602,Jonathan Eduardo,Becerril,Cruz,2,4,2004,2,4,0
+603,Jorge Jair,Becerril,Cruz,29,11,2002,2,4,0
+604,Jorge,Noguez,Victoria,25,7,2001,2,4,0
+605,José Eduardo,Licona,Lara,29,10,2008,2,4,0
+606,José Luis,Sandoval,Becerra,26,1,2004,2,4,0
+607,José Miguel,Lujano,Hernández,30,8,2011,2,4,0
+608,Juan Carlos,Cárdenas,Primero,25,12,2005,2,4,0
+609,Juan De Dios,Ramírez,Hernández,8,9,2004,2,4,0
+610,Juan Luis,Coronel,Flores,7,7,2002,2,4,0
+611,Juan Luis,Deza,Arteaga,2,10,2002,2,4,0
+612,Julieta Joseline,González,Maya,14,8,2005,1,4,0
+613,Julio César,Ramírez,Brígido,6,5,2008,2,4,0
+614,Karina,López,Hernández,14,7,2006,1,4,0
+615,Karla Elizabeth,De La Cruz,Frías,24,9,2000,1,4,0
+616,Karla Guadalupe,Pastor,Morales,30,6,2004,1,4,0
+617,Karla López Hernández,López,Hernández,23,4,1998,1,4,0
+618,Kebin Agustín,Jaramillo,Martínez,30,4,2001,2,4,0
+619,Kevin Aarón,González,Ramírez,27,12,2002,2,4,0
+620,Kevin,Aguilar,Ortíz,18,10,2008,2,4,0
+621,Kimberly Isamara,Hernández,Galindo,11,9,2010,1,4,0
+622,Landon Donnovan,Ramírez,Luján,10,3,2010,2,4,0
+623,Leandro Heznahider,Ramírez,Luján,17,4,2008,2,4,0
+624,Leonardo Daniel,Pastor,Bautista,26,3,2003,2,4,0
+625,Leonardo,Escutia,Calderón,7,5,2006,2,4,0
+626,Liliana,Rodríguez,Martínez,12,9,2007,1,4,0
+627,Lizbeth,Domínguez,Rosales,7,1,2000,1,4,0
+628,Luis Ángel,Ramírez,Hernández,4,5,2011,2,4,0
+629,Luis Eduardo,Sánchez,Reyes,9,10,2003,2,4,0
+630,Luis Enrique,García,De La Cruz,27,10,2000,2,4,0
+631,Luisita Marlen,Becerril,Cruz,23,2,2006,1,4,0
+632,Luz Abril,Valdez,Villegas,2,4,2004,1,4,0
+633,Marco Antonio,Hernández,Escobar,26,9,2009,2,4,0
+634,María Guadalupe,Noguez,Victoria,19,6,2002,1,4,0
+635,María Josselin,Hernández,Sandoval,2,7,2003,1,4,0
+636,Mario Josué,Yáñez,Flores,3,5,2012,2,4,0
+637,Miguel Arón,Martínez,Vergara,8,6,2010,2,4,0
+638,Missael Arturo,Calderón,Flores,30,9,1999,2,4,0
+639,Monserrat Isamar,Valdez,Tamayo,26,7,2003,1,4,0
+640,Montserrat,García,De La Cruz,22,1,2002,1,4,0
+641,Naomi Mitsuko,Pastor,Morales,4,6,2006,1,4,0
+642,Natali,Hernández,De La Cruz,13,7,2003,1,4,0
+643,Natalia Altair,Cortés,Reyes,10,2,2008,1,4,0
+644,Nataly Valeria,Hernández,Sandoval,1,9,2005,1,4,0
+645,Omar De Jesús,López,López,21,8,2003,2,4,0
+646,Omar,Riaño,García,4,8,2007,2,4,0
+647,Osiris Yamileth,De La Cruz,Escalona,7,6,2006,1,4,0
+648,Pamela Saraí,Martínez,Sanchez,12,6,2010,1,4,0
+649,Paola Naomi,Serrano,Gómez,29,7,2005,1,4,0
+650,Pedro Emmanuel,Jaramillo,González,21,1,2006,2,4,0
+651,Perla Elizabeth,Madrigal,Reza,5,8,2005,1,4,0
+652,Regina Wendolee,Hernández,De La Cruz,20,7,2011,1,4,0
+653,Rolando Jared,Rodríguez,Balderas,13,2,2007,2,4,0
+654,Sandra,López,Hernández,12,10,2000,1,4,0
+655,Sandra,Riaño,García,6,12,2002,1,4,0
+656,Santiago,Celis,Quintero,30,9,2005,2,4,0
+657,Sara Yuridia,Pérez,López,6,11,2004,1,4,0
+658,Sebastian,Rodríguez,Martínez,21,3,2009,2,4,0
+659,Shumalli Julieta,Valencia,García,19,3,2007,1,4,0
+660,Silvia Damaris,Rodríguez,Jaramillo,28,5,2008,1,4,0
+661,Uriel Alexis,Sandoval,Morales,7,8,2001,2,4,0
+662,Valente,Rodríguez,Ramírez,26,4,2012,2,4,0
+663,Valeria,Deza,Arteaga,19,7,2004,1,4,0
+664,Valeria,Primero,Lucas,27,11,2007,1,4,0
+665,Valeria,Rodríguez,Ramírez,17,12,2007,1,4,0
+666,Vivian Daniela,Valdéz,Álvarez,17,10,1999,1,4,0
+667,Yahir,Ramírez,Hernández,30,1,2003,2,4,0
+668,Yahir Saúl,Sandoval,Morales,12,4,2003,2,4,0
+669,Yesica Monserrat,Torres,González,23,12,2003,1,4,0
+670,Yoseline Guadalupe,De La Cruz,Cruz,9,2,2006,1,4,0
+671,Zaida Dixia,González,Hernández,30,1,2003,1,4,0
+672,Zoe Yamilé,Jaramillo,Olvera,5,3,2014,1,4,0
+673,AARÓN,ZEPEDA,GUZMÁN,29,3,2004,2,1,0
+674,ABRAHAM ISAID,BERNAL,MALVAEZ,17,8,2011,2,1,0
+675,ADEMIR,REYES,SÁNCHEZ,8,6,2009,2,1,0
+676,ADRIAN,CONTRERAS,CONTRERAS,26,10,2009,2,1,0
+677,ALEJANDRO,MEDINA,CORONA,17,2,2006,2,1,0
+678,ALEX GEOVANY,MEZA,IBAÑEZ,11,3,2005,2,1,0
+679,ALEX,SERNA,TAVIRA,24,8,2005,2,1,0
+680,AXEL ISAI,SÁNCHEZ,ROMERO,1,5,2009,2,1,0
+681,AXEL JESÚS,HERRERA,TAVIRA,12,6,2011,2,1,0
+682,BRYAN ZAID,SÁNCHEZ,BERNAL,23,8,2007,2,1,0
+683,CARLOS ANTONIO,RIVERA,LUCAS,4,12,2001,2,1,0
+684,CONCEPCION,CARRILLO,HERNANDEZ,23,3,2010,1,1,0
+685,DAFNE ERENDIRA,SÁNCHEZ,ROMERO,26,8,2007,1,1,0
+686,DAIRA YAMILE,SÁNCHEZ,ROMERO,15,11,2011,1,1,0
+687,DANNA PAOLA,MONDRAGÓN,EXIQUIO,3,6,2009,1,1,0
+688,DIANA ITZEL,RIVERA,LUCAS,22,1,2002,1,1,0
+689,DIANA YOLED,VILCHIS,FRANCISCO,20,2,2007,1,1,0
+690,DULCE MARÍA,ESQUIVEL,MERCADO,20,2,2008,1,1,0
+691,EDGAR,MONDRAGÓN,CASTILLO,11,6,2014,2,1,0
+692,ELISA,REYES,SÁNCHEZ,16,6,2012,1,1,0
+693,ELISEO,DIAZ,TORRES,16,4,2005,2,1,0
+694,EMILIANO,VELÁZQUEZ,ÁLVAREZ,13,5,2001,2,1,0
+695,ERANDI MICHEL,ROMERO,GONZALEZ,5,9,2002,2,1,0
+696,ERIDANI,CARMONA,GARDUÑO,17,1,2005,1,1,0
+697,ESTHER,DIAZ,TORREZ,9,12,2003,1,1,0
+698,GERALDINE LILIAN,REYES,SÁNCHEZ,8,12,2010,1,1,0
+699,GINYER,OSORIO,HERNÁNDEZ,24,3,2006,1,1,0
+700,INGRID ARLETTE SÁNCHEZ BERNAL,SÁNCHEZ,BERNAL,2,1,2006,1,1,0
+701,ITZEL,DOMINGUEZ,EDUARDO,19,2,2010,1,1,0
+702,JAQUELINE,ZEPEDA,GUZMÁN,28,11,2005,1,1,0
+703,JENNIFER,SANCHEZ,LÓPEZ,23,5,2013,1,1,0
+704,JESUS,CARRILLO,HERNANDEZ,16,4,2009,2,1,0
+705,JOSUÉ EFRAÍN,SÁNCHEZ,BERNAL,9,3,2013,2,1,0
+706,JUAN CARLOS,MARTÍNEZ,SÁNCHEZ,13,6,2006,2,1,0
+707,JULIAN,CONTRERAS,GONZÁLEZ,13,10,2006,2,1,0
+708,KARINA,MEDIEL,FLORES,11,1,2000,1,1,0
+709,KARYME,SOLIS,CRUZ,7,8,2003,1,1,0
+710,KEVIN,ZEPEDA,GUZMÁN,21,12,2007,2,1,0
+711,LEONOR ITZEL,SÁNCHEZ,CAMACHO,25,6,2003,1,1,0
+712,LUCERO,MEDINA,CORONA,9,6,2003,1,1,0
+713,LUIS ANGEL,CONTRERAS,GONZÁLEZ,25,6,2003,2,1,0
+714,LUIS ANTONIO,VILCHIS,FRANCISCO,13,12,2005,2,1,0
+715,LUIS MARIO,ROMERO,GONZALEZ,19,4,2005,2,1,0
+716,MARÍA SOLEDAD,CONTRERAS,CONTRERAS,18,9,2012,1,1,0
+717,MARTIN EDUARDO,RIVERA,LUCAS,3,4,2006,2,1,0
+718,RODRIGO,MARTÍNEZ,SÁNCHEZ,1,6,2004,2,1,0
+719,SANTIAGO,MEDINA,CORONA,12,8,2001,2,1,0
+720,TANIA MAYTE,SÁNCHEZ,CAMACHO,17,7,2005,1,1,0
+721,VICTOR MANUEL,HERNÁNDEZ,DE LEÓN,9,1,2014,2,1,0
+722,VIOLETA,MONDRAGÓN,EXIQUIO,18,9,2011,1,1,0
+723,WENDY EVELYN,SÁNCHEZ,CAMACHO,10,10,2006,1,1,0
+724,ABRAHAM LORETO,CASTELAN,ARRIAGA,26,9,2007,2,2,0
+725,ABRIL,GREGORIO,RAMOS,6,11,2006,1,2,0
+726,AIDÉ CASSANDRA,MOLINA,ESPINOSA,27,2,2006,1,2,0
+727,ALAN FRANCISCO,POZOS,CARRISOSA,27,6,2010,2,2,0
+728,ALBERTO,CONTRERAS,GARCÍA,22,4,2004,2,2,0
+729,ALEJANDRA,BRIBIESCA,BAUTISTA,25,4,2011,1,2,0
+730,ALEX YAIR,PALOMINO,VELÁZQUEZ,12,1,2014,2,2,0
+731,ALEXIS GABRIEL,PARACHE,CARAPIA,15,9,2014,2,2,0
+732,ALEXIS ROLANDO,REYES,VÁZQUEZ,7,4,2003,2,2,0
+733,ALMA DELFINA,GONZÁLEZ,RAMÍREZ,6,12,2010,1,2,0
+734,ANAHÍ,QUISEHUATL,BAUTISTA,20,6,2009,1,2,0
+735,ANDREA GUADALUPE,CONTRERAS,GARCÍA,14,7,2002,1,2,0
+736,ANDREA MICHEL SOLIDARIDAD,CONTRERAS,MARCIAL,15,1,2003,1,2,0
+737,ANDREA,PALOMINO,RODRÍGUEZ,7,9,2003,1,2,0
+738,ÁNGEL DANIEL,ZAVALA,MENDOZA,8,6,2007,2,2,0
+739,ÁNGEL YAEL,ZAVALA,MENDOZA,10,9,2010,2,2,0
+740,ÁNGEL YALIEL,PIÑA,FLORES,9,8,2007,2,2,0
+741,ANGELÍN,DOMÍNGUEZ,DOMÍNGUEZ,16,12,2009,2,2,0
+742,ARIADNA MICHEL,SILVA,CORTEZ,17,11,2011,1,2,0
+743,ARICEL VICTORIA,GONZÁLEZ,RAMÍREZ,26,6,2004,1,2,0
+744,ARITZA JOSELYN,ORTEGA,FRANCISCO,24,5,2010,1,2,0
+745,AXEL EFRAÍN,MUÑOZ,JIMÉNEZ,9,6,2000,2,2,0
+746,AXEL JESUALDO,CISNERO,GARFIAS,29,10,2005,2,2,0
+747,AYMAR SARAI,MELO,GONZÁLEZ,28,12,2007,2,2,0
+748,BELLA RUBÍ,MARCIAL,HUERTA,26,1,2007,1,2,0
+749,BREEDY,HERNÁNDEZ,DÍAZ,3,7,2005,1,2,0
+750,CARLOS DANIEL,GREGORIO,RAMOS,30,4,2005,2,2,0
+751,CARLOS IGNACIO,VELASCO,RODRÍGUEZ,11,12,2001,2,2,0
+752,DANA ELODAIN,GONZÁLEZ,RAMÍREZ,24,7,2003,1,2,0
+753,DANA GISSELLE,RAMÍREZ,GUTIÉRREZ,26,4,2009,1,2,0
+754,DANIEL,RAMÍREZ,COHETERO,29,8,2004,2,2,0
+755,DANIEL,VEGA,CASTELÁN,13,1,2006,2,2,0
+756,DIANA LAURA YURITZI,VARELA,ROSALES,25,9,2000,1,2,0
+757,DIANA YAZMIN,REYES,VÁZQUEZ,21,8,2004,1,2,0
+758,DIEGO MISAEL,ROMERO,TREJO,26,6,2012,2,2,0
+759,DULCE KAROLINA,VELAZCO,AGUAS,25,3,2001,1,2,0
+760,DULCE MAGALY,BÁEZ,MONDRAGÓN,26,11,2000,1,2,0
+761,DULCE NATALY,MAISSON,CRUZ,4,10,2007,1,2,0
+762,DULCE XIMENA,TREJO,DÍAZ,16,6,2012,1,2,0
+763,EDUARDO YAIR,TREJO,DÍAZ,28,4,2004,2,2,0
+764,ENRIQUE NATHANAEL,CRUZ,ORTEGA,7,9,2009,2,2,0
+765,ERIKA DAILY,GARCÍA,MARTÍNEZ,1,5,2008,1,2,0
+766,ERIKA JOSELINE,DÍAZ,GARCÍA,13,2,2002,1,2,0
+767,ERNESTO DAVID,PALOMINO,RODRÍGUEZ,6,1,2010,2,2,0
+768,ERVIN ANDRÉS,BENÍTEZ,VALENCIA,28,6,2006,2,2,0
+769,ESAÚ JACOB,CORONADO,CASTELÁN,26,4,2011,2,2,0
+770,EVANDER ENRIQUE,GARCÍA,MARTÍNEZ,17,11,2012,2,2,0
+771,EVELIN LIZHET,CONTRERAS,MARCIAL,26,1,2001,1,2,0
+772,EVELYN,PALOMINO,RODRÍGUEZ,2,9,2012,1,2,0
+773,FÉNIX ALEXANDRO,PARACHE,SALAZAR,23,5,2013,2,2,0
+774,FERNANDO VALDEMAR,RAMÍREZ,GARCÍA,4,11,2006,2,2,0
+775,GÉNESIS,GONZÁLEZ,RAMÍREZ,6,2,2013,1,2,0
+776,GÉNESIS JAZIEL,GARCÍA,ESPINOZA,24,12,2013,1,2,0
+777,GIOVANI JESÚS,BENÍTEZ,VALENCIA,11,6,2008,2,2,0
+778,GUADALUPE ANEL,MORALES,GARCÍA,8,5,2011,2,2,0
+779,HANNA CELESTE,GARCÍA,ESPINOZA,30,5,2011,1,2,0
+780,HÉCTOR DANIEL,RAMÍREZ,GÓMEZ,18,10,2012,2,2,0
+781,HOLLI ITZAYANA,COLULA,GAONA,23,1,2013,1,2,0
+782,ISAAC DAVID,ROMÁN,VÁZQUEZ,21,7,2001,2,2,0
+783,ISMAEL,DÍAZ,GARCÍA,11,11,2004,2,2,0
+784,ISMAEL ROMÁN,ORTIZ,GARDUÑO,6,7,2011,2,2,0
+785,ISRAEL,CRUZ,ORTEGA,25,8,2003,2,2,0
+786,JADAHI,MOLINA,ESPINOZA,6,6,2008,1,2,0
+787,JAIRO NOÉ,VELAZCO,AGUAS,30,10,1999,2,2,0
+788,JANETH JOLOTZIN,CISNEROS,GARFIAS,24,5,2007,1,2,0
+789,JARED,COLULA,MOREL,9,8,2003,2,2,0
+790,JAVIER ALEXANDER,RAZO,MORALES,28,9,2007,2,2,0
+791,JESSICA ABIGAIL,GONZÁLEZ,MENDOZA,3,4,2013,1,2,0
+792,JESÚS DAVID,RAMÍREZ,GÓMEZ,8,1,2002,2,2,0
+793,JESÚS,VÁZQUEZ,HERNÁNDEZ,8,7,2007,2,2,0
+794,JIMENA,POZOS,CARRISOSA,4,10,2008,1,2,0
+795,JOAQUÍN,SÁNCHEZ,ORTEGA,15,3,2005,2,2,0
+796,JOCSAN,GARCÍA,HERNÁNDEZ,31,3,2010,2,2,0
+797,JOEL,GARCÍA,HERNÁNDEZ,25,7,2008,2,2,0
+798,JOHAN JAFET,FLORES,PARIENTE,25,11,2012,2,2,0
+799,JONATHAN EZEQUIEL,DÁVIL,ROMANO,23,10,2014,2,2,0
+800,JORGE ADRIAN,QUISEHUATL,BAUTISTA,23,12,2003,2,2,0
+801,JOSÉ MANUEL,BALBUENA,GONZÁLEZ,3,12,2009,2,2,0
+802,JOSÉ VICENTE,CARMONA,SÁNCHEZ,14,2,2001,2,2,0
+803,JOSEFINA,RAMÍREZ,ROMANO,2,11,1999,1,2,0
+804,JOVVANI,BALLÓN,GARCÍA,9,7,1999,2,2,0
+805,JUDITH DAILYNN ALEXIA,CUEVAS,LÓPEZ,17,2,2004,1,2,0
+806,JUDITH JACQUELINE,RAMÍREZ,GÓMEZ,31,10,2008,1,2,0
+807,KARINA,PÉREZ,BAUTISTA,1,10,2005,1,2,0
+808,KARLA ABIGAIL,DOMÍNGUEZ,GONZÁLEZ,6,9,2011,1,2,0
+809,KARLA CITLALLI,MUÑOZ,JIMÉNEZ,8,8,2007,1,2,0
+810,KARLA ESTEFANY,GÓMEZ,LAREDO,14,8,2001,1,2,0
+811,KARLA YERALIN,RODRÍGUEZ,CARMONA,9,10,2007,1,2,0
+812,KATHERIN PALOMINO VELÁZQUEZ,PALOMINO,VELÁZQUEZ,16,6,2008,1,2,0
+813,KATY MAYTE GÓMEZ LAREDO,GÓMEZ,LAREDO,27,12,2003,1,2,0
+814,KELY NATASHA CRUZ ESCAMILLA,CRUZ,ESCAMILLA,31,10,2014,1,2,0
+815,KIMBERLY NATALIA CORTEZ ZEPEDA,CORTEZ,ZEPEDA,8,12,2009,1,2,0
+816,KIMBERLYN GUADALUPE CONTRERAS MARCIAL,CONTRERAS,MARCIAL,27,2,2005,1,2,0
+817,LAILA VERÓNICA RUPERTO MARTÍNEZ,RUPERTO,MARTÍNEZ,24,8,2008,1,2,0
+818,LEONARDO VÁZQUEZ GONZÁLEZ,VÁZQUEZ,GONZÁLEZ,27,7,2008,2,2,0
+819,LESLY JOCELYN DUQUE GONZÁLEZ,DUQUE,GONZÁLEZ,29,12,2000,1,2,0
+820,LUIS ANTONIO CRUZ PÉREZ,CRUZ,PÉREZ,14,12,2001,2,2,0
+821,MANUEL ALEJANDRO ZAVALA MENDOZA,ZAVALA,MENDOZA,31,12,2005,2,2,0
+822,MARÍA DE LOS ÁNGELES GREGORIO RAMOS,GREGORIO,RAMOS,26,8,2008,1,2,0
+823,MARÍA DEL CARMEN SÁNCHEZ ORTEGA,SÁNCHEZ,ORTEGA,26,4,2003,1,2,0
+824,MARÍA ELENA GREGORIO RAMOS,GREGORIO,RAMOS,26,8,2008,1,2,0
+825,MARÍA FERNANDA PARACHE SALAZAR,PARACHE,SALAZAR,10,10,2011,1,2,0
+826,MARÍA XATZIRI VELASCO RODRÍGUEZ,VELASCO,RODRÍGUEZ,7,1,2004,1,2,0
+827,MARIANA ALELY PALOMINO VELÁZQUEZ,PALOMINO,VELÁZQUEZ,2,11,2009,1,2,0
+828,MARIANA RAMÍREZ LÓPEZ,RAMÍREZ,LÓPEZ,23,1,2011,1,2,0
+829,MARIANA YUTZIRY SANTOS DE LA CRUZ,SANTOS,DE LA CRUZ,17,9,2010,1,2,0
+830,MARIO ALBERTO MELO GONZÁLEZ,MELO,GONZÁLEZ,5,6,2009,2,2,0
+831,MAYRA TOLENTINO MENDOZA,TOLENTINO,MENDOZA,11,1,2004,1,2,0
+832,MELANIE CISNEROS GARFIAS,CISNEROS,GARFIAS,11,5,2009,1,2,0
+833,MELANIE QUISEHUATL BAUTISTA,QUISEHUATL,BAUTISTA,22,1,2014,1,2,0
+834,MICHELLE NALLELY DÍAS MARTÍNEZ,DÍAS,MARTÍNEZ,19,5,2007,1,2,0
+835,MIGUEL ÁNGEL RAZO MORALES,RAZÓ,MORALES,20,11,2002,2,2,0
+836,MIGUEL ESTEBAN MÁRQUEZ ONOFRE,MÁRQUEZ,ONOFRE,29,9,2013,2,2,0
+837,MILTON MUÑOZ JIMÉNEZ,MUÑOZ,JIMÉNEZ,28,5,2003,2,2,0
+838,NAIDELIN MORALES ESCAMILLA,MORALES,ESCAMILLA,28,5,2002,1,2,0
+839,NALLELY JAQUELINE RAMÍREZ ROSALES,RAMÍREZ,ROSALES,27,5,2007,1,2,0
+840,NANCI YAMILET TREJO DÍAZ,TREJO,DÍAZ,19,6,2010,1,2,0
+841,NANCY GUADALUPE ORTIZ COHETERO,ORTIZ,COHETERO,16,7,1999,1,2,0
+842,NATALI PALOMINO RODRÍGUEZ,PALOMINO,RODRÍGUEZ,18,5,2014,1,2,0
+843,NATALIA ORTIZ COHETERO,ORTIZ,COHETERO,12,2,2010,1,2,0
+844,NOÉ JOAQUÍN TREJO DÍAZ,TREJO,DÍAZ,9,10,2005,2,2,0
+845,NOEMÍ VALENTINA CARRISOSA DELFINO,CARRISOSA,DELFINO,2,2,2007,1,2,0
+846,OLIVER JESÚS MELO GONZÁLEZ,MELO,GONZÁLEZ,3,3,2013,2,2,0
+847,OSCAR EDUARDO REYES VÁZQUEZ,REYES,VÁZQUEZ,27,9,2006,2,2,0
+848,OSCAR RICARDO RAMÍREZ ROSALES,RAMÍREZ,ROSALES,22,7,2005,2,2,0
+849,PAOLA ORTIZ COHETERO,ORTIZ,COHETERO,21,9,2004,1,2,0
+850,PAOLA YURITZI ROMERO TREJO,ROMERO,TREJO,20,4,2014,1,2,0
+851,PEDRO RAMÍREZ LÓPEZ,RAMÍREZ,LÓPEZ,23,12,2013,2,2,0
+852,PERLA JOSELIN PARACHE BAUTISTA,PARACHE,BAUTISTA,27,9,2002,1,2,0
+853,REGINA ESMERALDA GARCÍA ESPINOZA,GARCÍA,ESPINOZA,11,8,2010,1,2,0
+854,REYVIN ALVERTO PIÑA FLORES,PIÑA,FLORES,27,6,2006,2,2,0
+855,RICARDO GONZÁLEZ RAMÍREZ,GONZÁLEZ,RAMÍREZ,25,11,2008,2,2,0
+856,ROBERTO JULIÁN ZAVALA MENDOZA,ZAVALA,MENDOZA,28,10,2003,2,2,0
+857,SAMANTHA LUCIA ARMENTA LAREDO,ARMENTA,LAREDO,12,4,2013,1,2,0
+858,SEBASTIÁN,PARACHE,SALAZAR,19,9,2008,2,2,0
+859,SERGIO FRANCISCO,CARAPIA,MURGUÍA,11,7,2011,2,2,0
+860,SOFÍA,RAMÍREZ,GUTIÉRREZ,18,8,2005,1,2,0
+861,TERESA LISBETH,REYES,OLMEDO,5,8,2005,1,2,0
+862,VALERIA,PÉREZ,BAUTISTA,27,6,2014,1,2,0
+863,VERTIN,FLORES,PARIENTE,19,8,2001,2,2,0
+864,VIANNEY,BÁEZ,MONDRAGÓN,1,5,2005,1,2,0
+865,VÍCTOR MANUEL,PALOMINO,RODRÍGUEZ,10,3,2008,2,2,0
+866,VÍCTOR,SÁNCHEZ,ORTEGA,15,3,2007,2,2,0
+867,WENDY,MORALES,ESCAMILLA,19,2,2000,1,2,0
+868,YAZMÍN,MAISSON,CRUZ,20,6,2014,1,2,0
+869,YERLI,RAMÍREZ,GARCÍA,20,5,2002,1,2,0
+870,YURITHZY FERNANDA,ORTEGA,FRANCISCO,7,6,2011,1,2,0
+871,ABIGAIL SOLEDAD,FRIAS,DE LA ROSA,18,8,2008,1,3,0
+872,ADILENE YULISBETH,REYES,DE JESÚS,23,9,2009,1,3,0
+873,AIKO SAYURI,RANGEL,CELIS,2,10,2004,1,3,0
+874,AKARI GUADALUPE,HERNÁNDEZ,RAMÍREZ,29,12,2008,1,3,0
+875,ALEJANDRA JOSELINNE,GARCÍA,MARTÍNEZ,18,1,2003,1,3,0
+876,ALFREDO,LÓPEZ,JIMÉNEZ,11,1,2000,2,3,0
+877,ALISON YASARET,MARTÍNEZ,ROSAS,15,8,2014,2,3,0
+878,ALMA CATALINA,ROSALES,FONSECA,24,3,2004,1,3,0
+879,ANDRIK URIEL,RODRÍGUEZ,REYES,27,2,2009,2,3,0
+880,ÁNGEL FRANCISCO,CASIANO,ZUÑIGA,7,11,2002,2,3,0
+881,BELEN RÍOS HERNÁNDEZ,RÍOS,HERNÁNDEZ,11,5,2006,1,3,0
+882,BRANDON EMIR,TORRES,ZAMUDIO,15,11,2006,2,3,0
+883,BRITHISH AYELEN,RECILLAS,HERNÁNDEZ,13,2,2009,2,3,0
+884,BRYAN ALEXANDER,AVELINO,SIERRA,2,9,2011,2,3,0
+885,CARLOS DANIEL,FRÍAS,DE LA ROSA,30,8,2005,2,3,0
+886,CARLOS EMILIO,JAIMES,PÉREZ,20,10,2006,2,3,0
+887,CARLOS MANUEL,LEÓN,OSORIO,4,11,2008,2,3,0
+888,CÉSAR ADÁN,MIRANDA,VALENCIA,10,12,2001,2,3,0
+889,CÉSAR YHANDEL,ZARATE,TOMÁS,5,4,2010,2,3,0
+890,CHRISTIAN YATZARETH,FLORES,MORENO,18,10,1999,2,3,0
+891,CRISTIAN DAVID,MARTÍNEZ,HERNÁNDEZ,11,4,2009,2,3,0
+892,CRYSTIAN,JAIMES,PÉREZ,11,2,2005,2,3,0
+893,DAFNE JOCELYN,AVELINO,SIERRA,7,2,2002,1,3,0
+894,DAFNE KARIME,RODRÍGUEZ,JIMÉNEZ,19,9,2008,1,3,0
+895,DALIA JAZMÍN,MEZA,HERNÁNDEZ,21,12,2001,1,3,0
+896,DANIELA ANANI,RODRÍGUEZ,REYES,11,8,2007,1,3,0
+897,DAYANA GUADALUPE,VEGA,MINERO,30,8,2006,1,3,0
+898,DILAN YAEL,PINO,JIMÉNEZ,24,10,2013,2,3,0
+899,EDWIN ARMANDO,RAMOS,ZABALA,26,2,2008,2,3,0
+900,EMMANUEL ELÍAS,HERNÁNDEZ,MARTÍNEZ,4,7,2004,2,3,0
+901,ENOCH ISRAEL,RECILLAS,HERNÁNDEZ,18,6,2007,2,3,0
+902,ERICK JOVANY,AVELINO,SIERRA,23,1,2006,2,3,0
+903,ESMERALDA ABIGAIL,CRUZ,IRAZABA,6,9,2011,1,3,0
+904,ESTELIOS,CRUZ,IRAZABA,1,11,2000,1,3,0
+905,EVELYN,TORREZ,ZAMUDIO,29,7,2001,1,3,0
+906,FRANCISCO JAVIER,ANTONIO,AGUAS,9,11,2006,2,3,0
+907,FRIDA SOFIA,GONZÁLEZ,MARTÍNEZ,16,7,2009,1,3,0
+908,GABRIEL ASAF,RODRÍGUEZ,JIMÉNEZ,26,10,2002,2,3,0
+909,GADDIEL CALEB,CRUZ,IRAZABA,22,2,2008,2,3,0
+910,GEOVANI JAZIEL,VELASCO,CRUZ,26,7,2009,2,3,0
+911,GLORIA ELIZA,CRUZ,IRAZABA,6,9,2011,1,3,0
+912,GUADALUPE GABRIELA,GONZÁLEZ,MIRÓN,16,10,2003,1,3,0
+913,HABRAHAM OSVALDO,CRUZ,IRAZABA,20,4,2005,2,3,0
+914,IKER ZADQUIEL,MAYA,RUBIO,9,3,2011,2,3,0
+915,IRIEL ESTRELLA,MAYA,RUBIO,23,9,2009,2,3,0
+916,ITZEL ALINE,CASIANO,ZUÑIGA,26,12,2000,1,3,0
+917,JENIFER RUBÍ,ORTEGA,LARA,22,6,2012,1,3,0
+918,JESÚS ANTONIO,MINERO,MARTÍNEZ,17,11,2002,2,3,0
+919,JORDAN ZURIEL,MIRANDA,VALENCIA,1,10,2007,2,3,0
+920,JOSÉ FABIÁN,ORDAZ,AGUIRRE,20,1,2006,2,3,0
+921,JOSÉ FABRICIO,RICO,MINERO,19,4,2006,2,3,0
+922,JOSHUA EMMANUEL,VELASCO,CRUZ,31,7,2007,2,3,0
+923,JOSUE,ARGÜELLES,MORALES,30,10,2010,2,3,0
+924,JOVANA,RANGEL,CELIS,23,9,2010,1,3,0
+925,JUAN CARLOS,VEGA,MINERO,5,3,2001,2,3,0
+926,JUAN JAIR,CASIANO,ZUÑIGA,18,2,2005,2,3,0
+927,JUAN JOSÉ,PONCE,RAMOS,28,10,2002,2,3,0
+928,KAORY TERESA,AGUIRRE,ROJO,20,7,2012,1,3,0
+929,KARLA EDITH,AVELINO,SIERRA,1,2,2001,1,3,0
+930,KENIA RUBI,ORDAZ,AGUIRRE,28,2,2004,1,3,0
+931,KEVIN ALEJANDRO,LEÓN,OSORIO,11,5,2010,2,3,0
+932,KEVIN BERNARDO,AGUIRRE,ROJO,7,11,2002,2,3,0
+933,KEVIN,LÓPEZ,FONSECA,10,2,2014,2,3,0
+934,KEVIN UCIEL,VELASCO,VELASCO,25,8,2002,2,3,0
+935,KIMBERLY ALEXA,MARTÍNEZ,MARTÍNEZ,4,6,2014,1,3,0
+936,LAURA JOSEFINA,GONZÁLEZ,GONZÁLEZ,28,2,2014,1,3,0
+937,LEIDI,RAMOS,VÁZQUEZ,17,4,2000,1,3,0
+938,LESLY DILECK,MARTÍNEZ,GUZMÁN,21,4,2011,1,3,0
+939,LESLY GUADALUPE,GONZÁLEZ,MARTÍNEZ,6,6,2011,1,3,0
+940,LLUVIA VALERIA,ZARAGOZA,CRUZ,7,10,2011,1,3,0
+941,LUZ MARÍA,GABINO,GÓMEZ,3,6,2013,1,3,0
+942,MARLON JAEL,MIRANDA,VALENCIA,2,3,2005,2,3,0
+943,MARTÍN CRUZ,CRUZ,IRAZABA,28,10,1999,2,3,0
+944,MARTÍN ISAAC,CASIANO,ZUÑIGA,28,9,2006,2,3,0
+945,MIGUEL ÁNGEL,RUIZ,RAMOS,1,7,2007,2,3,0
+946,MIGUEL ÁNGEL,VEGA,MINERO,22,12,2002,2,3,0
+947,MONTSERRAT,JAIMES,PÉREZ,28,3,2004,1,3,0
+948,NAHOMY YAMILETH,GARCÍA,HERNÁNDEZ,26,3,2014,1,3,0
+949,NAOMY,PINO,JIMÉNEZ,18,9,2011,1,3,0
+950,NATANAEL,MAYA,RUBIO,21,12,2014,1,3,0
+951,OSCAR,AGUILAR,MORALES,18,7,2008,2,3,0
+952,PATRICIA PAOLA,RODRÍGUEZ,REYES,26,3,2010,1,3,0
+953,ROCÍO BERENICE,MARTÍNEZ,HERNÁNDEZ,25,2,2003,1,3,0
+954,RODRIGO,ROSALES,FONSECA,6,1,2009,2,3,0
+955,ROSA ISABEL,NIÑO,ANTONIO,3,8,2008,1,3,0
+956,RUBÉN TADEO,HERNÁNDEZ,RAMÍREZ,25,2,2014,2,3,0
+957,RUBÉN,ZARATE,TOMÁS,22,2,2002,2,3,0
+958,SAIRA TERESA,CASIANO,ZUÑIGA,13,7,2014,1,3,0
+959,SANTIAGO ZAID,MARTÍNEZ,CORTÉS,17,3,2013,2,3,0
+960,SURIAN ITZEL,RAMOS,ZABALA,27,12,2009,1,3,0
+961,WENDY VALENTINA,GONZÁLEZ,ROJAS,14,2,2001,1,3,0
+962,XAVIER ALEJANDRO,CUEVAS,MARTÍNEZ,8,6,2010,2,3,0
+963,XIMENA,NIÑO,ANTONIO,15,9,2010,1,3,0
+964,YEIMI CONSEPCIÓN,ROCANDIO,ROCANDIO,2,5,2004,1,3,0
+965,YOSSELIN,GABINO,DE LA CRUZ,29,8,2013,1,3,0
+966,ADRIAN,OLIVARES,GÓMEZ,3,5,2006,2,4,0
+967,AIXEL GUADALUPE,GONZÁLEZ,ROMERO,26,9,2001,2,4,0
+968,ALAN,CUBA,SANDOVAL*,19,8,2009,2,4,0
+969,ALAN ISAAC,LÓPEZ,RIVAS,10,5,2008,2,4,0
+970,ALEXIS,GARCÍA,HERNÁNDEZ,19,3,2004,2,4,0
+971,ALEXIS YAHIR,CONTRERAS,BALDERAS,25,11,2006,2,4,0
+972,AMILY NOHEMI,LÓPEZ,RIVAS,5,4,2007,1,4,0
+973,ANA CRISTAL,VALERA,HERNÁNDEZ,21,1,2010,1,4,0
+974,ANDREA,CRUZ,JIMÉNEZ,1,7,2013,1,4,0
+975,ANDRÉS,GONZÁLEZ,GARRIDO,14,10,2009,2,4,0
+976,ÁNGEL EDUARDO,SEGURA,COLÍN,13,8,2002,2,4,0
+977,ÁNGEL GABRIEL,XOCHITL,HERRERA,1,12,2009,2,4,0
+978,ARI LESLY,RODRÍGUEZ,BALDERAS,11,6,2008,1,4,0
+979,ARIEL ISAÍAS,GARCÍA,HERNÁNDEZ,6,6,2013,2,4,0
+980,ASHLY YAMILETH,MARTÍNEZ,BANDA*,29,11,2011,1,4,0
+981,AXEL,BANDA,BANDA*,25,6,2004,2,4,0
+982,AXEL SEBASTIÁN,LÓPEZ,SANDOVAL,28,6,2010,2,4,0
+983,AXEL TADEO,SÁNCHEZ,TORRES,4,10,2010,2,4,0
+984,AYLIN,CORDERO,HERRERA,2,12,2005,1,4,0
+985,BAIRON YAIR,CASTILLO,HERNÁNDEZ,25,10,2009,2,4,0
+986,BRAYAN FRANCISCO,GARCÍA,GARCÍA,11,1,2008,2,4,0
+987,BRENDA,GARCÍA,HERNÁNDEZ,8,2,2003,1,4,0
+988,BRIAN,HERNÁNDEZ,CASTILLO,23,11,2007,2,4,0
+989,CARLOS ALEXIS,ALCÁNTARA,ESCOBAR,10,9,2004,2,4,0
+990,CARLOS EDUARDO,RIVERA,VÁZQUEZ,3,1,2013,2,4,0
+991,CARLOS MANUEL,MACÍAS,HERNÁNDEZ,9,6,2010,2,4,0
+992,CARLOS MAURICIO,HERNÁNDEZ,GARCÍA,31,1,2013,2,4,0
+993,CARLY ANGÉLICA,GONZÁLEZ,VILCHIS,8,10,2009,1,4,0
+994,CARMEN ERANDI,RODRÍGUEZ,TIRADO*,4,11,2013,1,4,0
+995,CÉSAR OSVALDO,LÓPEZ,SANDOVAL,23,6,2012,2,4,0
+996,CRISTHIAN JESÚS,RETANA,SÁNCHEZ,22,4,2011,2,4,0
+997,DANA PAOLA,CRUZ,FLORES,10,10,2002,1,4,0
+998,DANIEL ALI,GARCÍA,HERNÁNDEZ,25,5,2009,1,4,0
+999,DANIELA BRIDGET,RAMÍREZ,MATÍAS,7,10,2012,1,4,0
+1000,DANIELA,HERNÁNDEZ,GALICIA,15,9,2005,1,4,0
+1001,DANNA PAOLA,SANDOVAL,CASTILLO,21,8,2006,1,4,0
+1002,DERECK GEOVANNY,HERNÁNDEZ,VERGARA,3,8,2007,2,4,0
+1003,DIANA SARAHÍ,RETANA,SÁNCHEZ,1,11,2009,1,4,0
+1004,DORIAN GABRIEL,GONZÁLEZ,GONZAGA,4,4,2014,2,4,0
+1005,DULCE ARIANNA,SÁNCHEZ,TORRES,15,7,2009,1,4,0
+1006,DULCE NOEMI,GARCÍA,HERNÁNDEZ,10,3,2011,1,4,0
+1007,DUSTIN IVAN,ROMERO,HERNÁNDEZ,29,5,2006,2,4,0
+1008,DYLAN,CORDERO,HERRERA,21,11,2011,2,4,0
+1009,DYLAN,QUEZADA,LECHUGA,19,10,2006,2,4,0
+1010,EDWIN AXEL,RAMÍREZ,ROJAS,16,2,2004,2,4,0
+1011,ELISA BERENICE,GONZÁLEZ,VILCHIS,26,10,2002,1,4,0
+1012,ERICK GEOVANI,VÁZQUEZ,OLVERA,12,1,2011,2,4,0
+1013,ERIK,GONZÁLEZ,GARRIDO,18,5,2011,2,4,0
+1014,ESTEFANI GUADALUPE,MONDRAGÓN,CATALÁN,5,8,1992,1,4,0
+1015,ESTEFANI,SÁNCHEZ,VALENCIA,14,8,2010,1,4,0
+1016,JESÚS FRANCISCO,DE LA CRUZ,HERNÁNDEZ,25,12,1991,2,4,0
+1017,JOAHANA ESTEFANI,LICONA,LARA,30,12,2010,2,4,0
+1018,JOAQUÍN,CRUZ,FLORES,10,5,2004,2,4,0
+1019,JONATHAN DAVID,PÉREZ,ACEVEDO,5,11,2003,2,4,0
+1020,JONATHAN ULISES,MARTÍNEZ,MARTÍNEZ,2,10,2012,2,4,0
+1021,JOSÉ LUIS,XOCHITL,HERRERA,7,2,2006,2,4,0
+1022,JOSÉ SAMUEL,SARABIA,CURIEL,10,8,2014,2,4,0
+1023,JOSSELYN,GARCÍA,HERNÁNDEZ,8,11,2004,1,4,0
+1024,JUAN CARLOS,FRAGA,MORENO,1,12,2009,2,4,0
+1025,JUAN CARLOS,PASTOR,BAUTISTA,6,11,2001,2,4,0
+1026,JUAN PABLO,SÁNCHEZ,VALENCIA,19,6,2008,2,4,0
+1027,JULIO CÉSAR,OLIVARES,TORRES,29,7,2002,2,4,0
+1028,JULIO ISRAEL,PASTOR,DE LA CRUZ,21,10,2002,2,4,0
+1029,KAREN PAMELA,MONDRAGÓN,CATALÁN,19,10,1997,1,4,0
+1030,KARLA ARELI,GAYTÁN,GARCÍA,13,7,2001,1,4,0
+1031,KARLA ELIZABETH,DE LA CRUZ,FRÍAS,24,9,2000,1,4,0
+1032,KARLA GUADALUPE,PASTOR,MORALES,30,6,2004,1,4,0
+1033,KATHERINE YAZMÍN,MACÍAS,HERNÁNDEZ,22,8,2008,1,4,0
+1034,KEVIN SANTIAGO,SANTIAGO,MEJÍA,26,4,2009,2,4,0
+1035,KIMBERLY MARÍA EUGENIA,MARTÍNEZ,BANDA*,14,1,2014,1,4,0
+1036,LEONARDO ISMAEL,PÉREZ,ACEVEDO,3,12,2013,2,4,0
+1037,LESLY ESMERALDA,GARDUÑO,VÁZQUEZ,19,2,2012,1,4,0
+1038,LIZETH AMAIRANY,RETANA,SÀNCHEZ,1,6,2014,1,4,0
+1039,LUIS BENJAMÍN,GONZÁLEZ,VILCHIS,9,6,2005,2,4,0
+1040,LUIS OMAR,SANTIAGO,MEJÍA,20,7,2010,2,4,0
+1041,LUZ ANDREA,CONTRERAS,BALDERAS,21,12,2007,1,4,0
+1042,LUZ ELENA,QUIROZ,CRUZ,3,1,2004,1,4,0
+1043,MARA ALIN,GONZÁLEZ,ROMERO,25,8,2003,1,4,0
+1044,MARCOS,COLÍN,SÁNCHEZ,26,1,2003,2,4,0
+1045,MARCOS OSWALDO,SÁNCHEZ,GUTIÉRREZ,25,4,2003,2,4,0
+1046,MARÍA DE LOS ÁNGELES,HERNÁNDEZ,SOTO,21,12,2006,1,4,0
+1047,MARÍA DE LOS ÁNGELES,SANDOVAL,CASTILLO,26,7,2008,1,4,0
+1048,MARÍA FERNANDA,LEÓN,LECHUGA,10,1,2006,1,4,0
+1049,MARÍA FERNANDA,LÓPEZ,SANDOVAL,24,11,2008,1,4,0
+1050,MARÍA FERNANDA,MACÍAS,HERNÁNDEZ,30,5,2004,1,4,0
+1051,MARÍA FERNANDA,REYES,FRANCISCO,24,3,2005,1,4,0
+1052,MARÍA JOSÉ,CRUZ,JIMÉNEZ,3,11,2011,1,4,0
+1053,MARÍA JOSÉ,RODRÍGUEZ,TIRADO*,5,4,2006,1,4,0
+1054,MAXIMILIANO,XOCHITL,HERRERA,30,7,2014,2,4,0
+1055,MAYTE,GONZÁLEZ,ROMERO,4,9,2007,1,4,0
+1056,MELISSA,OLIVARES,TORRES,3,8,2005,1,4,0
+1057,METZYN KASANDRA,ROJAS,SARABIA,15,6,2000,1,4,0
+1058,MICHELLE GUADALUPE,GONZÁLEZ,MARTÍNEZ,16,1,2003,1,4,0
+1059,MICHELLE XOCHITL,XOCHITL,HERRERA,3,11,2010,1,4,0
+1060,MIRIAM ADZIRI,CASTILLO,CASTAÑEDA,1,10,2009,1,4,0
+1061,MISAEL ALBERTO,RIVERA,VÁZQUEZ,16,12,2004,2,4,0
+1062,MOISÉS JESÚS,VALERA,HERNÁNDEZ,23,8,2014,2,4,0
+1063,MONTSERRAT GUADALUPE,GONZÁLEZ,VILCHIS,9,3,2004,1,4,0
+1064,NATALIA,DÍAZ,GARCÍA,25,8,2010,1,4,0
+1065,NATALIA,OLIVARES,TORRES,6,2,2011,1,4,0
+1066,NATALY,BANDA,BANDA*,14,7,2003,1,4,0
+1067,NOHEMÍ,RAMÍREZ,ROJAS,27,5,2005,1,4,0
+1068,OSCAR ALEXIS,GONZÁLEZ,LÓPEZ,2,1,2002,2,4,0
+1069,OSCAR ARMANDO,MARTÍN,LÓPEZ,25,12,2012,2,4,0
+1070,OSCAR,LÓPEZ,SANDOVAL,24,11,2005,2,4,0
+1071,OSCAR,NOGUEZ,VICTORIA,25,7,2001,2,4,0
+1072,PABLO,XOCHITL,HERRERA,23,9,2003,2,4,0
+1073,PAOLA,OLIVARES,GÓMEZ,31,8,2004,1,4,0
+1074,RAMSES DE JESÚS,HERNÁNDEZ,CASTRO,22,5,2010,2,4,0
+1075,RICARDO DANIEL,SÁNCHEZ,GUTIÉRREZ,12,1,2006,2,4,0
+1076,RICARDO,HERNÁNDEZ,GALICIA,29,12,2008,2,4,0
+1077,SAMANTHA JOSELIN,VÁZQUEZ,OLVERA,1,3,2009,1,4,0
+1078,SAMANTHA YURICO,TABOADA,CÁRDENAS,4,3,2011,1,4,0
+1079,SAMUEL HABACUC,RETANA,SÀNCHEZ,30,12,2006,2,4,0
+1080,SERGIO,REYES,FRANCISCO,29,11,2011,2,4,0
+1081,SHERLIN GUADALUPE,MARTÍNEZ,BANDA*,29,10,2010,1,4,0
+1082,SOFÍA,CORDERO,HERRERA,16,9,2009,1,4,0
+1083,SOFÍA ESTEFANIA,PÉREZ,ACEVEDO,23,2,2008,1,4,0
+1084,SOFÍA MITZOY,MALDONADO,SARABIA,5,6,2014,1,4,0
+1085,STEPHANIE LILIANA,GAYTÁN,GARCÍA,7,12,2015,1,4,0
+1086,TADEO,CRUZ,GARCÍA,14,5,2014,2,4,0
+1087,TONATY EMANUEL,ROJAS,SARABIA,24,1,2004,2,4,0
+1088,VALERIA,RODRÍGUEZ,RAMÍREZ*,17,12,2007,1,4,0
+1089,VALERIA ZOÉ,LEÓN,RODRÍGUEZ,13,2,2012,1,4,0
+1090,VANESSA DENISE,HERNÁNDEZ,GARCÍA,7,1,2012,1,4,0
+1091,VANESSA,QUEZADA,LECHUGA,6,5,2008,1,4,0
+1092,VICTOR MANUEL,SANTIAGO,MEJÍA,29,4,2003,2,4,0
+1093,WENDOLYN MIRIAN,VALERA,HERNÁNDEZ,5,4,2012,1,4,0
+1094,WENDY NAHOMI,SÁNCHEZ,TORRES,16,8,2005,1,4,0
+1095,WENDY SAYURI,CÁRDENAS,SÁNCHEZ,7,2,2013,1,4,0
+1096,ZOE YAMILÉ,JARAMILLO,OLVERA,5,3,2014,1,4,0
+1097,ABEL ANTONIO,ALEMAN,DELGADO,9,3,2002,2,5,0
+1098,ABRAHAM ALEJANDRO,HERNANDEZ,MARTINEZ,,,,2,5,0
+1099,ADRIAN,GARZA,,,,,2,5,0
+1100,AIDA,QUERUBIN,OVIEDO,,,,2,5,0
+1101,AIDÉ JAZIMÍN,MORA,RICO,21,6,2013,1,5,0
+1102,AISSE NICOLE,OVIEDO,GUTIÉRREZ,,,,1,5,0
+1103,AITALA GEORGINA,MERNDOZA,HERNÁNDEZ,,,,1,5,0
+1104,ALDO,VAZQUEZ,SANCHEZ,9,5,2007,2,5,0
+1105,ALEX GIOVANI,CRUZ,FLORES,10,10,2013,2,5,0
+1106,ALEXA GABRIELA,AVALOS,MARTÍNEZ,,,,1,5,0
+1107,ALFREDO,CRUZ,MAYORGA,28,5,2008,2,5,0
+1108,ALLINE KRISTELLE,ANTONIO,ANTONIO,4,11,2010,1,5,0
+1109,ALONDRA YOSELIN,HERNÁNDEZ,JASSO,30,11,2011,1,5,0
+1110,ALONSO MANUEL,REYES,MARTÍNEZ,23,5,2001,2,5,0
+1111,AMERICA DANIELA,ALVARES,ONTIVEROS,4,8,2008,1,5,0
+1112,AMÉRICA JAZMÍN,GÁMEZ,ZAPATA,26,11,2008,1,5,0
+1113,ANA GABRIELA,ORTÍZ,AMADOR*,21,1,2000,1,5,0
+1114,ANA LAURA,ODILON,HERNÁNDEZ,23,10,2011,1,5,0
+1115,ANDREA OSMARY,HERNANDEZ,JASSO,24,12,2007,1,5,0
+1116,ANGEL BENYESP,SANCHEZ,RENTERIA,9,4,2003,1,5,0
+1117,ANGEL DANIEL,MARTÍNEZ,ESTRADA,,,,2,5,0
+1118,ANGEL EDUARDO,BAUTISTA,MENDOZA,17,4,2014,2,5,0
+1119,ANGEL,ENRIQUEZ,BOLIVAR,,,,2,5,0
+1120,ANGEL FRANCISCO,MARTÍNEZ,GENERA,13,9,2014,2,5,0
+1121,ÁNGEL GERARDO,GONZÁLEZ,MARTÍNEZ,12,9,2003,2,5,0
+1122,ÁNGEL GUSTAVO,AMARO,DELGADO,19,8,2006,2,5,0
+1123,ÁNGEL JAHIR,BARRIOS,GONZÁLEZ,3,11,2011,2,5,0
+1124,ANGEL RICARDO,FRANCISCO,HERNANDEZ,5,12,2008,2,5,0
+1125,ÁNGEL YAHIR,MORENO,SAENZ,,,,2,5,0
+1126,ANGELA SOLACH,PERALES,CHAVEZ,,,,1,5,0
+1127,ÁNGELES YARELI,MARTÍNEZ,ACOSTA,28,5,2004,1,5,0
+1128,ANGELES YARETZI,HERNANDEZ,MARTINEZ,,,,1,5,0
+1129,ANICETO,LUGO,MORALES,,,,2,5,0
+1130,ANTONIA,HERNANDEZ,GONZALES,14,1,2004,1,5,0
+1131,ARICHE GUADALUPE,OVIEDO,GUTIÉRREZ,,,,2,5,0
+1132,ARON ALEJANDRO,LÓPEZ,CADENA,23,5,2012,2,5,0
+1133,AXEL JOSUÉ,HERNÁNDEZ,JASSO,13,5,2014,2,5,0
+1134,AYDAN EMILIANO,ÁVILA,FLORES,,,,2,5,0
+1135,AYDE YOLANDA,MUÑOZ,ZUÑIGA,12,7,2021,1,5,0
+1136,BRADLEY,HERNÁNDEZ,CONTRERAS,,,,2,5,0
+1137,BRAYAN GUADALUPE,GIMENEZ,VEGA,25,3,2004,2,5,0
+1138,BRIANA GUADALUPE,GUTIÉRREZ,GUERRA,8,4,2009,1,5,0
+1139,BRISEIDY ALEJANDRA,FABIAN,SANTOS,18,5,2003,1,5,0
+1140,BRITTANY ZELENNY,ROMERO,SAUCEDA,31,1,2008,1,5,0
+1141,BRUNO ALEXIS,DIAZ,REZA,6,10,2008,2,5,0
+1142,CAMILA MAYTE,CHANTACA,AGUAYO,5,6,2010,1,5,0
+1143,CARLOS ALBERTO,RAMOS,AQUINO,26,1,2011,2,5,0
+1144,CARLOS DANIEL,RUIZ,RANGEL,,,,2,5,0
+1145,CARLOS GREGORIO,MUÑOZ,ZUÑIGA,21,7,2012,2,5,0
+1146,CARLOS JULIÁN,HERNÁNDEZ,ESPINOSA,28,1,2005,2,5,0
+1147,CESAR,MALDONADO,CRUZ,24,5,2008,2,5,0
+1148,CINTHYA,SAAVEDRA,RICO,7,6,2001,1,5,0
+1149,CITLALY YAMILETH,RINCÓN,DELGADO,12,6,2014,1,5,0
+1150,CLAUDIA NAYELI,MARTÍNEZ,ESTRADA,,,,1,5,0
+1151,CRISTAL GUADALUPE,REYNA,VELA,23,11,2003,1,5,0
+1152,CRISTAL YAMILETH,SAUCEDA,MARTÍNEZ,9,4,2012,1,5,0
+1153,CRISTIAN ALDAIR,GONZÁLEZ,RODRÍGUEZ,,,,2,5,0
+1154,CRISTIAN,CRISTOBAL,RIVERA,,,,2,5,0
+1155,CRISTOPHER ANDRÉS,LÓPEZ,CADENA,16,11,2009,2,5,0
+1156,CRISTOPHER EMILIANO,PÉREZ,FLORES*,14,5,2013,2,5,0
+1157,CRISTOPHER,TORRES,PEDRASA,,,,2,5,0
+1158,DALIA ARACELY,ANTONIO,MEDINA,,,,1,5,0
+1159,DANIEL ÁNGEL,TORRES,ÁLVAREZ,,,,2,5,0
+1160,DANIEL,GONZÁLEZ,HERNÁNDEZ,,,,2,5,0
+1161,DANIELA ERNESTINA,MARTÍNEZ,GONZÁLEZ,18,10,2006,1,5,0
+1162,DANIELA MARISOL,LÓPEZ,URBINA,4,3,2009,1,5,0
+1163,DANIELA NOEMÍ,DELGADO,AGUILAR*,23,8,2013,1,5,0
+1164,DAYANA BERENICE,DE LOS SANTOS,SANCHEZ,20,9,2010,1,5,0
+1165,DEVANI,HERNANDEZ,CESPEDES,5,12,2011,1,5,0
+1166,DIANA ELIZABETG,VÁZQUEZ,GUTIÉRREZ,17,6,2009,1,5,0
+1167,DIANA HAYDEE,RUBIO,HERNANDEZ,5,1,2008,1,5,0
+1168,DIANA LIZBETH,BARAJAS,HERNÁNDEZ,19,9,1999,1,5,0
+1169,DIANA MELINA,DE JÉSUS,ESPINOZA,27,9,2006,1,5,0
+1170,DIANA NOEMI,CASTELLANOS,GUTIERREZ,24,6,2007,1,5,0
+1171,DIANEXI,MORENO,SAUCEDA,12,4,2012,1,5,0
+1172,DIEGO ALEJANDRO,CASTELLANO,GUTIERREZ,31,1,2005,2,5,0
+1173,DIEGO ROBERTO,MUÑOZ,ZUÑIGA,4,2,2014,2,5,0
+1174,DOLORES,SAAVEDRA,RICO,24,3,1999,1,5,0
+1175,DOMINIC MATEO,BARRIOS,VALLEJO,23,6,2011,2,5,0
+1176,DULCE MARÍA,VAZQUEZ,GUERRERO,31,8,2012,1,5,0
+1177,EDELIS PRINCESA,REYES,MARTINEZ,26,1,2005,1,5,0
+1178,EDER ALEJANDRO,SÁNCHEZ,ROMERO,,,,2,5,0
+1179,EDGAR SAI,SÁNCHEZ,ROMERO,,,,2,5,0
+1180,EDUARDO,SÁNCHEZ,MEJÍA,22,2,2002,2,5,0
+1181,EMILIO ISAI,MEDRANO,HERNÁNDEZ,13,7,2008,2,5,0
+1182,ENRIQUE RAFAEL,CASTRO,RUBIO,4,1,2015,2,5,0
+1183,ERICK ANTONIO,DOMÍNGUEZ,BARRIOS,4,3,2010,2,5,0
+1184,ERICK JAHIR,MANZANARES,HERNÁNDEZ,10,6,2012,2,5,0
+1185,ERICKA NOEMI,HERNÁNDEZ,TORRES,,,,1,5,0
+1186,ESTEFANÍA,MARTÍNEZ,GONZÁLEZ,18,10,2009,1,5,0
+1187,ESTEFANY DULCE,MARÍA,AGUIÑA,28,2,2013,1,5,0
+1188,EVELIN,CERDA,ALVARADO,8,8,2010,1,5,0
+1189,EVELIN,VELAZQUEZ,RANGEL,,,,1,5,0
+1190,EVELYN,MALDONADO,CRUZ,12,4,2013,1,5,0
+1191,EVELYN SINAI,FABIAN,SANTOS,14,9,2010,1,5,0
+1192,EVELYN VICTORIA,LIMÓN,GIRON,24,7,2001,1,5,0
+1193,FABIÁN GUADALUPE,MARTÍNEZ,ACOSTA,15,8,1999,2,5,0
+1194,FANI CECILIA,ISIDRO,ANTONIO,22,11,2010,1,5,0
+1195,FATIMA LIZBETH,MEDRANO,HERNÁNDEZ,22,8,2006,1,5,0
+1196,FERNANDO,BAUTISTA,MENDOZA,8,4,2011,2,5,0
+1197,FRANCISCO,GARCIA,RAMIRES,,,,2,5,0
+1198,FRANCISCO,GUTIÉRREZ,GALLEGOS,7,9,2007,2,5,0
+1199,FRANCISCO RAFAEL,CAMARILLO,RIVERA,30,5,2014,2,5,0
+1200,FRANCISCO RUBÉN,GONZÁLEZ,HERNÁNDEZ,,,,2,5,0
+1201,FRANCISCO SAID,MERNDOZA,HERNÁNDEZ,,,,2,5,0
+1202,FRANCO,GONZÁLEZ,ALFONSO,27,8,2010,2,5,0
+1203,GAEL ALEXANDER,CASTRO,RUBIO,23,4,2011,2,5,0
+1204,GALILEA,MONTSERRAT,CASTELLANOS,,,,1,5,0
+1205,GENESIS RUBI,RIOS,MARTÍNEZ,,,,1,5,0
+1206,GLADIS NALLELY,MARTÍNEZ,ESTRADA,,,,1,5,0
+1207,GUSTAVO ADOLFO,MARTINEZ,HERNANDEZ,,,,2,5,0
+1208,GUSTAVO ÁNGEL,ARGUEYO,MORENO,,,,2,5,0
+1209,HANNA YAMILETH,HERNANDEZ,TORRES,,,,1,5,0
+1210,HÉCTOR TADEO,DE JÉSUS,ESPINOZA,14,3,2014,2,5,0
+1211,IKER LEONARDO,MARTÍNEZ,HERNÁNDEZ,,,,2,5,0
+1212,IKER RENE,RODRÍGUEZ,MANZANARES,25,11,2013,2,5,0
+1213,IKER TADEO,ALVARES,ONTIVEROS,2,7,2011,2,5,0
+1214,ILSE JAZMÍN,MATA,PEÑA,7,11,1999,1,5,0
+1215,ILSE LIZBETH,MARTÍNEZ,HERNÁNDEZ,,,,1,5,0
+1216,IRENE YAHAIRA,ZUÑIGA,LUNA,,,,1,5,0
+1217,ITZEL,GARCÍA,CRISANTO,25,11,2014,1,5,0
+1218,IVANNA VALENTINA,ROMERO,SAUCEDA,7,1,2014,1,5,0
+1219,JADE JANETH,TORRES,PEDRASA,,,,1,5,0
+1220,JADE YISELL,PEÑA,RODRIGUEZ,7,2,2012,1,5,0
+1221,JAIR EZEQUIEL,VAZQUEZ,SANCHEZ,17,7,2008,2,5,0
+1222,JAIRO,GONZÁLEZ,ALFONSO,5,12,2008,2,5,0
+1223,JAQUELINE,CRUZ,HERNÁNDEZ,3,10,2011,1,5,0
+1224,JAQUELINE GUADALUPE,FABIAN,SANTOS,19,12,2008,1,5,0
+1225,JARED,REYES,JUÁREZ,,,,2,5,0
+1226,JENIFER ACIRENA,TORRES,ÁLVAREZ,,,,1,5,0
+1227,JENIFER,MARTÍNEZ,MARTÍNEZ,,,,1,5,0
+1228,JESUS ARTURO,CRUZ,FLORES,25,12,2011,2,5,0
+1229,JESUS DANIEL,FRANCISCO,HERNANDEZ,19,6,2007,2,5,0
+1230,JESUS EDUARDO,MONTENEGRO,RANGEL,,,,2,5,0
+1231,JESÚS EMMANUEL,GUTIÉRREZ,GUERRA,5,4,2011,2,5,0
+1232,JOHANA MICHEL,GARAY,RODRIGUEZ,10,10,2000,1,5,0
+1233,JONATHAN EVERTO,MENDOZA,LIMÓN,,,,2,5,0
+1234,JONATHAN RONALDO,AMARO,DELGADO,17,12,2003,2,5,0
+1235,JONATHAN SALVADOR,TORRES,PEDRASA,,,,2,5,0
+1236,JORGE ARMANDO,GUTIERREZ,GARCÍA,,,,2,5,0
+1237,JORGE,MALDONADO,CRUZ,24,5,2005,2,5,0
+1238,JOSE ALBERTO,YUNEN,CRISANTO,2,3,2001,2,5,0
+1239,JOSÉ DE JESÚS,COLLASO,ARGUEYO,,,,2,5,0
+1240,JOSE DIEGO,GONZALEZ,SANTIAGO,14,3,2012,2,5,0
+1241,JOSE GUADALUOE,VITALES,RIVERO,,,,2,5,0
+1242,JOSE MANUEL,ARREDONDO,AGUILAR,,,,2,5,0
+1243,JOSE RODOLFO,LEDESMA,MARTÍNEZ,,,,2,5,0
+1244,JOSÉ SÁNCHEZ,SÁNCHEZ,HERRERA,,,,2,5,0
+1245,JUAN ADOLFO,CHANTACA,AGUAYO,8,4,2013,2,5,0
+1246,JUAN ALBERTO,OBREGÓN,RODRÍGUEZ,2,11,2014,2,5,0
+1247,JUAN CARLOS,SAUCEDA,MARTÍNEZ,23,1,2002,2,5,0
+1248,JUAN DAVID,ANTONIO,ANTONIO,21,11,2004,2,5,0
+1249,JUAN JESÚS,SÁNCHEZ,HERRERA,,,,2,5,0
+1250,JUAN RAMIRO,ESTRADA,MUÑOZ,8,5,2004,2,5,0
+1251,JULIO CESAR,YUNEN,CRISANTO,10,12,2005,2,5,0
+1252,KARLA,CABRERA,GARAY,25,10,2003,1,5,0
+1253,KATIA EDITH,MARTINEZ,HERNANDEZ,7,1,2014,1,5,0
+1254,KATIA JUDITH,TERRAZAS,HERNÁNDEZ,13,9,2008,1,5,0
+1255,KELLY YOHANA,BARRIOS,VALLEJO,8,6,2006,1,5,0
+1256,KENYA MARISOL,OROZCO,BADILLO,17,7,2012,1,5,0
+1257,KEVIN ADRIÁN,VÁZQUEZ,GUTIÉRREZ,2,11,2004,2,5,0
+1258,KEVIN ALEXIS,RODRIGUEZ,LEDESMA,22,7,2008,2,5,0
+1259,KEVIN EDGARDO,VENANCIO,VALLES,24,2,2006,2,5,0
+1260,KEVIN,HERNANDEZ,AQUINO,28,4,2001,2,5,0
+1261,KEVIN,ISIDRO,ANTONIO,14,8,2004,2,5,0
+1262,KEVIN JANCARLO,MORENO,HERNÁNDEZ,27,8,2009,2,5,0
+1263,KEVIN,VITALES,RIVERO,,,,2,5,0
+1264,LAURA NELY,SEGURA,AGUAYO,8,8,2005,1,5,0
+1265,LEYDY YAMILETH,GARCIA,RAMIREZ,,,,1,5,0
+1266,LIDIA TERESA,MUÑOZ,FLORES,,,,1,5,0
+1267,LIZBETH,MALDONADO,CRUZ,8,9,2010,1,5,0
+1268,LIZETH,GONZALEZ,SANTIAGO,31,2,2010,1,5,0
+1269,LUCERO,HERNÁNDEZ,PANAL,,,,1,5,0
+1270,LUCERO,VITALES,RIVERO,,,,1,5,0
+1271,LUCIO JUAN,DIEGO,ACUÑA,9,4,2002,2,5,0
+1272,LUIS ALBERTO,BANDA,HUERTA,29,7,2014,2,5,0
+1273,LUIS ÁNGEL,MARTÍNEZ,MANZANARES,14,7,2003,2,5,0
+1274,LUIS ANGEL,REYES,MARTINEZ,12,11,2009,2,5,0
+1275,LUIS CARLOS,PÉREZ,FLORES*,16,9,2011,2,5,0
+1276,LUIS EDUARDO,HERNANDEZ,HERNANDEZ,10,6,2009,2,5,0
+1277,LUIS ENRIQUE,LÓPEZ,URBINA,23,8,2004,2,5,0
+1278,LUIS GABRIEL,SANCHEZ,RENTERIA,7,1,2005,2,5,0
+1279,LUIS GENARO,LEDEZMA,MARTÍNEZ,,,,2,5,0
+1280,LUIS GERARDO,ENRIQUEZ,BOLIVAR,,,,2,5,0
+1281,LUIS MARIO,ODILON,HERNÁNDEZ,11,7,2005,2,5,0
+1282,LUIS YANCARLOS,MEDINA,COLLAZO,29,7,2013,2,5,0
+1283,LUZ ELENA,DELGADO,GONZÁLEZ,21,10,2013,1,5,0
+1284,LUZ MARÍA,TERRAZAS,HERNÁNDEZ,16,7,2013,1,5,0
+1285,LUZ VALERIA,TORRES,DELGADO,16,11,2013,1,5,0
+1286,MARGARITA,ODILON,HERNÁNDEZ,12,4,2009,1,5,0
+1287,MARÍA FERNANDA,ANTONIO,MEDINA,,,,1,5,0
+1288,MARIA ISABEL,LUGO,MORALES,,,,1,5,0
+1289,MARIANA AZANETH,MALDONADO,AMADOR,19,4,2011,1,5,0
+1290,MARIANA ISABEL,MONTENEGRO,RANGEL,,,,1,5,0
+1291,MARÍO ALBERTO,PÉREZ,OVALLE,3,7,2010,2,5,0
+1292,MARIO ALBERTO,PEREZ,OVALLE,,,,2,5,0
+1293,MARLEY JUSTIN,HERNÁNDEZ,CONTRERAS,28,12,2010,2,5,0
+1294,MAURICIO GAEL,MATA,PEÑA,23,8,2007,2,5,0
+1295,MAURICIO RICARDO,ROMERO,SAUCEDA,17,8,2009,2,5,0
+1296,MELANIE VIOLETA,ROMERO,SAUCEDA,2,12,2006,1,5,0
+1297,MELANNY AIDEE,ENRIQUEZ,HERNÁNDEZ,8,6,2009,1,5,0
+1298,MIGUEL ANGEL,MARTÍNEZ,MARTÍNEZ,14,4,2000,2,5,0
+1299,MILAGROS GUADALUPE,IBARRA,HERNANDEZ,,,,1,5,0
+1300,MILAGROS JOSELYN,CHANTACA,AGUAYO,1,1,2006,1,5,0
+1301,MIRIAM,HERNÁNDEZ,RANGEL,,,,1,5,0
+1302,MOISÉS HAZEEL,HERNÁNDEZ,ESPINOZA,1,3,2009,2,5,0
+1303,MONSERRATH GUADALUPE,ZAPATA,GARCIA,22,3,2004,2,5,0
+1304,NADIA JAZMÍN,ANTONIO,MEDINA,,,,1,5,0
+1305,NATALIA,BAUTISTA,MENDOZA,,,,1,5,0
+1306,NATALY,GONZALEZ,SANTIAGO,27,3,2014,1,5,0
+1307,NEIRA ALEJANDRA,VENANCIO,VALLES,1,12,2003,1,5,0
+1308,NELSON ENRIQUEZ,FLORES,BANDA,21,5,2009,2,5,0
+1309,NESTOR DANIEL,RODRIGUEZ,CARRANZA,10,6,2009,2,5,0
+1310,NICOLAS AMADOR,VASQUEZ,GUERRERO,29,4,2008,2,5,0
+1311,NORA ABIGAIL,ESTRADA,MUÑOZ,8,5,2003,1,5,0
+1312,NORMA GUADALUPE,GÁMEZ,ZAPATA,2,2,2003,1,5,0
+1313,OMAR VALENTINO,MARTINEZ,HERNANDEZ,12,6,2000,2,5,0
+1314,OSCAR URIEL,ORTIZ,ARREOLA,17,1,2006,2,5,0
+1315,PAOLA SANCHEZ,SANCHEZ,SOSA,20,5,2009,1,5,0
+1316,PATRICIO,LOPEZ,MARTINEZ,,,,2,5,0
+1317,PEDRO PABLO,PEREZ,OVALLE,,,,2,5,0
+1318,PEDRO PABLO,PÉREZ,OVALLE,20,4,2011,2,5,0
+1319,PEDRO ULISES,VENANCIO,VALLES,22,9,2013,2,5,0
+1320,RAÚL ALEJANDRO,LÓPEZ,URBINA,7,9,2008,2,5,0
+1321,RAÚL JANCARLO,MORENO,SAENZ,,,,2,5,0
+1322,REGINA,GARCÍA,GARCÍA,20,10,2004,1,5,0
+1323,RENATA MONTSERRAT,ZUÑIGA,LUNA,,,,1,5,0
+1324,RENE,FERNANDEZ,HERNANDEZ,,,,2,5,0
+1325,RENE SALOMON,ZUÑIGA,LUNA,,,,2,5,0
+1326,RICARDO,GUTIÉRREZ,GALLEGOS,30,3,2014,2,5,0
+1327,RIHANNA YOHARI,BARRIOS,VALLEJO,25,3,2010,1,5,0
+1328,ROBERTO DE JÉSUS,MATA,PEÑA,17,9,2003,2,5,0
+1329,ROBERTO DE JESUS,PEREZ,FLORES,24,12,2004,2,5,0
+1330,RODOLFO ISMAEL,LEDEZMA,MARTÍNEZ,,,,2,5,0
+1331,RODOLFO,MARTINEZ,GENERA,13,3,2004,2,5,0
+1332,ROLANDO FRANCISCO,CERDA,ALVARADO,23,8,2006,2,5,0
+1333,ROXANA GUADALUPE,LOPEZ,MARTINEZ,,,,1,5,0
+1334,SAMANTHA GUADALUPE,LÓPEZ,RODRÍGUEZ,28,4,2009,1,5,0
+1335,SAÚL GERARDO,MORENO,SAENZ,,,,2,5,0
+1336,SILVESTRE,MARTÍNEZ,HERNÁNDEZ,8,3,2004,2,5,0
+1337,SOFÍA YARELI,RINCÓN,DELGADO,3,5,2010,1,5,0
+1338,SOL GUADALUPE,RIOS,MARTÍNEZ,,,,1,5,0
+1339,SOLEDAD,GONZÁLEZ,ALFONSO,18,12,2004,1,5,0
+1340,SUSANA,VELAZQUEZ,GONZÁLEZ,,,,1,5,0
+1341,TADEO ALEJANDRO,VARGAS,GARCÍA,,,,2,5,0
+1342,TADEO DE JÉSUS,SÁNCHEZ,HERRERA,,,,2,5,0
+1343,URIEL,CABRERA,GARAY,17,11,2009,2,5,0
+1344,VALENTÍN EMMANUEL,TORRES,ÁLVAREZ,,,,2,5,0
+1345,VALERY YAZMIN,LÓPEZ,CADENA,29,11,2010,1,5,0
+1346,VANESA YOSELIN,GÁMEZ,ZAPATA,8,7,2007,1,5,0
+1347,VICTOR ALEXIS,MORENO,HERNÁNDEZ,3,12,2002,2,5,0
+1348,VICTOR DANIEL,HERNANDEZ,GARCIA,24,12,2012,2,5,0
+1349,VICTOR DAVID,CAMARILLO,RIVERO,19,12,2009,2,5,0
+1350,VICTOR URIEL,VELAZQUES,GONZÁLEZ,,,,2,5,0
+1351,VICTORIA ARELY,CRUZ,MAYORGA,8,11,2002,1,5,0
+1352,VIRGINIA GUADALUPE,AMARO,DELGADO,6,11,2008,1,5,0
+1353,VIVIANA NATALY,GIMENEZ,VEGA,18,9,2006,1,5,0
+1354,WENDI SOFÍA,GUTIÉRREZ,GALLEGOS,30,3,2012,1,5,0
+1355,WILFRAN JESUS,ALVARADO,BANDA,18,3,2014,1,5,0
+1356,XIMENA ABIGAIL,MILAGROS,MARTINEZ,31,8,2004,1,5,0
+1357,XIMENA GUADALUPE,MONTENEGRO,RANGEL,,,,1,5,0
+1358,XIOMARA,ORTIZ,ARREOLA,10,6,2007,1,5,0
+1359,YADIRA YAZMÍN,MENDOZA,FLORES,23,10,2005,1,5,0
+1360,YAHIR ALEXANDER,CERDA,ALVARADO,9,11,2012,2,5,0
+1361,YAJAIRA BEATRIZ,CHANTACA,AGUAYO,25,1,2002,1,5,0
+1362,YOHAN,MORENO,MEDINA COLLAZO,,,,2,5,0
+1363,YOSELIN,CASTILLO,RODRÍGUEZ,2,11,2008,1,5,0
+1364,YOSELIN NICOLE,MARTÍNEZ,HERNÁNDEZ,3,2,2013,1,5,0
+1365,YOSSIO DANIEL,MORENO,SAUCEDA,12,4,2013,2,5,0
+1366,YULIANA MICHELLE,DELGADO,AGUILAR*,30,3,2012,1,5,0
+1367,ZARA ISABEL,CABRERA,GARAY,28,10,2006,1,5,0
+1368,ZULLY,ESCOBEDO,NÚÑEZ,16,11,2009,1,5,0
+1369,ZUSETHE DAYANA,HERNANDEZ,GARCIA,24,8,2007,1,5,0

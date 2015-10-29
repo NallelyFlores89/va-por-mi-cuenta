@@ -1,0 +1,35 @@
+#meLlamo{
+	padding: 10px 10px;
+	border:1px solid #bdbdbd;
+	text-align: center;
+	height: 298px;
+    -moz-box-shadow: 1px 1px 5px #bdbdbd;
+    -webkit-box-shadow: 1px 1px 5px #bdbdbd;
+    box-shadow: 1px 1px 5px #bdbdbd;
+}
+
+#videosSecc{
+	margin-top: 30px;
+}
+
+#carruselInicio{
+	margin-top: 30px;
+}
+#carruselInicio img{
+	width: 100%;
+}
+#yaEresPadrino{
+	display: table;
+	text-align: center;
+	color:#fff;
+	background-color: #126283;
+	height: 70px;
+}
+#yaEresPadrino h2{
+	display: table-cell;
+	vertical-align: middle;
+}
+.item .active img{
+	width: 100%;
+}
+.slideImg{position: absolute;}

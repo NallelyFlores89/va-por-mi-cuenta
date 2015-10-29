@@ -1,0 +1,11 @@
+$(document).ready(function(){
+    $("#modificaOBaja").click(function(){
+      $("form").submit();
+    })
+    $("#escribeCartaBtn").click(function(){
+      window.location=base+"index.php/carta";
+    })
+    $("#vePagApadrina").click(function(){
+      window.location=base+"index.php/apadrina";
+    })
+})

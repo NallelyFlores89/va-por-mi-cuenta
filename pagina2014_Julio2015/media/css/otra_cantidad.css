@@ -1,0 +1,47 @@
+#fondoAzul{
+	top: 30px;
+	height: 200px;
+	background-color: #eef5fb;
+}
+
+#ninos{
+	top: 0;
+	left: 20px;
+}
+
+#cajaNinos{
+	height: 300px;
+}
+
+#montoTxt{
+	font-size: 2.6em;
+	text-align: center;
+	top: 50px;
+}
+#ninosF{
+	position: absolute;
+}
+#formCantidad{
+	top: 100px;
+	text-align: center;
+}
+input[type="text"]{
+	width: 50%;
+	height: 50px;
+	font-size: 40px;
+}
+.termCond{font-size: 18px !important;}
+#apadrinarBtn{
+	font-size: 2em;
+	height: 70px;
+	width: 100%;
+}
+label{
+	font-weight: normal;
+}
+/*#terminos{
+	text-align: center;
+}
+#termT{
+	text-align: right;
+}*/

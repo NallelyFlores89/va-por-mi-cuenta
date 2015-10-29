@@ -1,0 +1,95 @@
+#mensaje{text-align: center;}
+div{overflow: hidden;}
+#mensaje h1{color:#126283;}
+#mensaje h2{color: #F7800A;}
+#infografia{
+	width: 100%;
+	height: 280px;
+	background-color: transparent;
+	background-image: url(../img/infogra.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 97% 251px;
+	margin-bottom: 20px;
+}
+#infografia hr{	margin-top: 273px;}
+.foto{padding: 0;}
+.foto img{width: 280px;height: 350px;}
+.mensajeNino{height: 180px;	display: table;}
+.mensajeNinoChild{
+	color: #126283;
+	text-align: center;
+	font-size: 25px;
+	font-style: italic;
+	display: table-cell;
+	vertical-align: middle;
+}
+.botonApadrinar{
+	height: 180px;
+	display: table;
+	text-align: center;
+}
+.botonApadrinar form{
+	display: table-cell;
+	vertical-align: middle;
+}
+.apadrinaNinoBtn{
+	width: 100%;
+	padding: 10px;
+	font-size: 30px;
+}
+.lNaranja{
+	font-size: 1.2em;
+	color: #F7800A;
+}
+.biografiaChild{padding: 0;}
+.biografia{
+	padding: 20px 0px;
+	background-color: #f3f3f5;
+}
+.anterior, .siguiente{
+	font-size: 15px;
+	border: none;
+	color:#F7800A;
+	background-color: #fff;
+	padding: 10px;
+}
+.datoNino{margin-bottom: 5px;}
+.datoNino2{color:#126283; font-size:1.2em;}
+.buscadorChild{
+	background-color: #fbefe1;
+	padding: 30px 0px;
+}
+.buscador h2{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 40px;
+}
+
+@-moz-document url-prefix() {
+    select {
+        padding: 10px;
+        /*padding-left: 20px;*/
+   }
+}
+
+select{
+	width: 100%;
+	color: #00567C;
+    /*-moz-appearance:none;*/
+    /*-webkit-appearance:none;*/
+    text-indent: 0.01px;
+    /*border:1px solid #00567C;*/
+    height: 45px;
+    /*color: #126283;*/
+    /*background-size: auto;*/
+}
+select::-ms-expand {display: none;}
+#buscar, #buscar2{
+	width: 100%;
+	padding: 5px;
+	font-size: 25px;
+}
+input[type="radio"], input[type="checkbox"]{
+	margin: 4px 10px 0;
+}

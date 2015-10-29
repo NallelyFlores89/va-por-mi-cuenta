@@ -1,0 +1,93 @@
+h1{
+	text-align: center;
+	font-size: 35px;
+}
+h2{
+	font-size: 39px;
+	text-align: center;
+}
+#comidas_slider{
+	padding-top: 20px;
+	height: 283px;
+	background-color: #eef5fb;
+	background-image: url(../img/comidas.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+#slider{
+	background: #fcf0e2 !important;
+	margin-top: 80px;
+	height: 30px;
+	border:2px solid #F7800A;
+	border-radius: 30px;
+}
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+	height: 25px;
+	width: 30px;
+	background-image: url(../img/slider.png);
+
+}
+.ui-slider-horizontal .ui-slider-handle{
+	margin-left:0;
+	top: 1.5px;
+}
+#descripcion{margin-top: 20px;}
+.cuadrosChild{
+	height: 220px;
+}
+.cuadrosChild h1{
+	background-color: #F7800A;
+	color: #FFF;
+	padding-top:5px;
+	margin: 0;
+}
+#amount{
+	width: 100%;
+	border:none;
+	/*font-size: 2em;*/
+	color: #F7800A;
+	background-color: #eef5fb;
+}
+
+#cantidad{height: 2em;}
+#cuadros{margin-top: 20px; margin-bottom: 30px;}
+.cajaInfo{background-color:#F5F5F5; height:200px; padding-top:15px; }
+#apadrinarBtn{
+	font-size: 2em;
+	height: 70px;
+	width: 100%;
+}
+#terminos{
+	margin-top: 30px;
+}
+label.azul{
+	font-weight: normal;
+	font-size: 20px;
+}
+#otraCant{	cursor: pointer;}
+.termCond{font-size: 18px !important;}
+#modificaOBaja{
+	text-align: center;
+	font-size: 25px;
+	cursor: pointer;
+}
+#escribeCartaBtn{
+	background-color: #5BB6E7;
+	color: #fff;
+	width: 100%;
+	font-size: 25px;
+	text-align: center;
+	padding: 10px;
+	border: 5px solid #00567C;
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+#vePagApadrina{
+font-size: 2em;
+	height: 70px;
+	width: 100%;
+}
+
+.comentarioFin{
+	font-size:14px !important;
+}

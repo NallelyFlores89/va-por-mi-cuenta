@@ -1,0 +1,173 @@
+iframe{background-color: #fff;}
+.container{
+    width: 100%;
+}
+
+.contenido{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.labelInfo{
+    width: 90px;
+    margin-bottom: 15px;
+}
+
+.login{
+    margin-left: 25px;
+    width: 120px;
+}
+
+.terminos{
+    padding-top: 10px;
+    display: inline-block;
+}
+
+.tituloCarta{
+    /*border-bottom: 2px solid #eb8523;;*/
+    padding-bottom: 12px;
+    margin-bottom: 25px;
+}
+
+.carta p{
+    color: #fff;
+}
+
+.textoAzul{
+    color: #0e63a9;
+}
+
+.textoNaranja{
+    color: #fff;
+    /*color: #eb8523;*/
+}
+
+.negritas{
+    font-weight: bolder;
+}
+
+.miCarta{
+    padding-bottom: 25px;
+}
+
+.atentamente{
+    margin-left: 6px;
+}
+
+.tituloCarta img{
+    width: 100%;
+}
+
+.textAzulCielo{
+    color: #fff;
+    /*color: #5ab6e7;*/
+}
+
+.enLinea{
+    display: inline;
+}
+
+.paso{
+    margin-bottom: 5%;
+}
+
+.contenido2{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.margen{
+    margin-bottom: 5%;
+}
+
+.info{
+    width: 100%;
+}
+
+.quitaPadding{
+    padding: 0;
+}
+
+.centraContenido{
+    margin-top: 12%;
+}
+
+.backColorLogin{
+    background-color: #eef5fb;
+    color: #5993a9;
+    padding: 30px 0;
+    margin-bottom: 10px;
+}
+
+.backColorLogin input{
+    width: 100%;
+}
+
+.ninosLogin{
+    z-index: 99;
+    margin-top: -50%;
+    float: right;
+}
+
+.cuerpoLogin{
+    padding-bottom: 70px;
+    padding-top: 30px;
+    border-bottom: 2px solid #eb8523;
+    margin-bottom: 30px;
+}
+
+.banners{
+    margin-bottom: 20px;
+}
+
+div.col-xs-12.col-sm-12.col-md-12.col-lg-12.enviaCarta{
+    margin-top: 20px;
+    padding: 0;
+}
+.aviso{
+    color: #e88424;
+    margin-top: 10px;
+    font-size: 12px;
+    text-align: justify;
+}
+@media (max-width: 1003px){
+    .divNinos{
+        display: none;
+    }
+    .login{
+        width: 100%;
+    }
+
+    .ninosComiendo{
+        text-align: center;
+        margin: 10px 0;
+    }
+    img.pull-right{
+        float: none !important;
+    }
+
+    p.pull-right{
+        float: none !important;
+    }
+
+    .jHtmlArea{
+        width: 100% !important;
+    }
+    .ToolBar{
+        width: 100% !important;
+    }
+
+    input{
+        width: 100%;
+    }
+
+    body{
+        max-width: 100%;
+    }
+}
+
+.mensajeError{
+    margin:0;
+    position:absolute;
+    width: 100%;
+}
